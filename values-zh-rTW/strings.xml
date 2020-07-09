@@ -92,7 +92,7 @@
     <string name="proxy_username">用戶名</string>
     <string name="proxy_password">密碼</string>
     <string name="keywords">關鍵詞</string>
-    <string name="spam_sms_keyword_title">簡訊黑名單</string>
+    <string name="spam_sms_keyword_title">簡訊阻止名單</string>
     <string name="proxy_title">代理</string>
     <string name="spam_keyword_dialog_title">請使用\"; \"分割關鍵字。</string>
     <string name="proxy_dialog_title">Socks5代理設置</string>
