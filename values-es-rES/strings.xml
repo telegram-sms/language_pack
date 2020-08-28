@@ -10,7 +10,7 @@
     <string name="airplane_mode">El dispositivo está en modo avión</string>
     <string name="app_list">Lista de aplicaciones</string>
     <string name="app_name_title">"App: "</string>
-    <string name="available_command">"Comandos disponibles:\n/getinfo - Obtener información del sistema\n/log - Mostrar los últimos 10 registros"</string>
+    <string name="available_command">"Comandos disponibles:\n/help - Mostrar información de ayuda\n/getinfo - Obtener información del sistema\n/log - Mostrar los últimos 10 registros"</string>
     <string name="battery_low">La batería está baja.</string>
     <string name="battery_monitoring">Supervisar el cambio de nivel de batería</string>
     <string name="battery_monitoring_notify">"Monitor de batería "</string>
