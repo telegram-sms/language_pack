@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Lang">es_es</string>
-
     <string name="Incoming_number">"Llamada de: "</string>
     <string name="Notification_Listener_title">"Notificaciones de aplicaciones "</string>
     <string name="about_content">"Desarrollador: qwe7002\nTraducción en español: @lpdavidgc\nVersión actual: "</string>
@@ -86,8 +85,9 @@
     <string name="sim_card_lock">Tarjeta SIM bloqueada.</string>
     <string name="sim_card_remove">Tarjeta SIM extraída.</string>
     <string name="spam_count_title">"Spam filtrado: "</string>
-    <string name="spam_keyword_dialog_title">Por favor usa \";\" para dividir palabras clave.</string>
     <string name="spam_sms_keyword_title">Lista negra de SMS</string>
+    <string name="spam_keyword_edit_title">Editar palabra clave</string>
+    <string name="spam_keyword_add_title">Agregar palabra clave</string>
     <string name="status">"Estado: "</string>
     <string name="success">Éxito</string>
     <string name="success_connect">Conectado al servidor de Telegram.</string>
@@ -110,5 +110,7 @@
     <string name="using_verification_code_identification">Extraer automáticamente códigos de verificación (Alfa)</string>
     <string name="ussd_code_running">Código USSD ejecutándose…</string>
     <string name="visit_page">Visitar la página Términos de privacidad</string>
+    <string name="cancel_button">cancelar</string>
+    <string name="delete_button">borrar</string>
 
 </resources>

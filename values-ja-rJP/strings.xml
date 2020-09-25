@@ -94,8 +94,9 @@
     <string name="proxy_password">パスワード</string>
     <string name="keywords">キーワード</string>
     <string name="spam_sms_keyword_title">SMSブラックリスト</string>
+    <string name="spam_keyword_edit_title">キーワードを編集</string>
+    <string name="spam_keyword_add_title">キーワードを追加</string>
     <string name="proxy_title">プロキシ</string>
-    <string name="spam_keyword_dialog_title">キーワードを分割するには「;」(半角字符)を使用してください。</string>
     <string name="proxy_dialog_title">Socks5プロキシのセットアップ</string>
     <string name="set_notification_listener">通知リスナー</string>
     <string name="time">"時間: "</string>
@@ -109,4 +110,6 @@
     <string name="about_content">"開発者: qwe7002\n日本語訳: @Lollycc @AisakaMk2\n現行版: "</string>
     <string name="send_ussd_dual_command">"/sendussd1 - SIMスロット1を使用してUSSDリクエストを送信します\n/sendussd2 - SIMスロット2を使用してUSSDリクエストを送信する"</string>
     <string name="qrcode_notice">このQRコードを安全に保管してください！\ n他の人と共有しないでください。</string>
+    <string name="cancel_button">キャンセル</string>
+    <string name="delete_button">デリート</string>
 </resources>
