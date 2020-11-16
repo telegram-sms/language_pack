@@ -112,5 +112,5 @@
     <string name="visit_page">Visitar la página Términos de privacidad</string>
     <string name="cancel_button">cancelar</string>
     <string name="delete_button">borrar</string>
-
+    <string name="command_cancelled">Comando cancelado</string>
 </resources>

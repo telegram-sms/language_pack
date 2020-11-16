@@ -112,4 +112,5 @@
     <string name="qrcode_notice">请确保此QR码安全！\ n请不要与他人共享。</string>
     <string name="cancel_button">取消</string>
     <string name="delete_button">删除</string>
+    <string name="command_cancelled">命令已取消</string>
 </resources>

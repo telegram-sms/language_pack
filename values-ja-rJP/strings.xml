@@ -112,4 +112,5 @@
     <string name="qrcode_notice">このQRコードを安全に保管してください！\ n他の人と共有しないでください。</string>
     <string name="cancel_button">キャンセル</string>
     <string name="delete_button">削除</string>
+    <string name="command_cancelled">コマンドがキャンセルされました</string>
 </resources>
