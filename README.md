@@ -11,5 +11,6 @@ I would like to thank the following people for their hard work to localise this 
 - Japanese
   - [@Lollycc](https://github.com/lollycc)
   - [@AisakaMk2](https://github.com/AisakaMk2)
+  - [@Qiaogun](https://github.com/Qiaogun)
 - Spanish
   - [@David Alonso](https://github.com/lpdavidgc)
