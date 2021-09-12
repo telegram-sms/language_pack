@@ -21,7 +21,7 @@
     <string name="trusted_phone_number">可信的电话号码</string>
     <string name="get_recent_chat_id">获取最近的对话ID</string>
     <string name="test_and_save">测试并保存</string>
-    <string name="network_error_falls_back_to_sms">网络错误回退到短信</string>
+    <string name="network_error_falls_back_to_sms">当网络故障时使用短信转发</string>
     <string name="current_battery_level">"电池电量: "</string>
     <string name="low_battery_status_end">电池电量不足状态已结束。</string>
     <string name="logcat">查看日志</string>
@@ -112,4 +112,5 @@
     <string name="qrcode_notice">请确保此QR码安全！\ n请不要与他人共享。</string>
     <string name="cancel_button">取消</string>
     <string name="delete_button">删除</string>
+    <string name="send_button">发送</string>
 </resources>
