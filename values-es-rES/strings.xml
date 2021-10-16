@@ -11,7 +11,7 @@
     <string name="app_name_title">"App: "</string>
     <string name="available_command">"Comandos disponibles:\n/help - Mostrar información de ayuda\n/getinfo - Obtener información del sistema\n/log - Mostrar los últimos 10 registros"</string>
     <string name="battery_low">La batería está baja.</string>
-    <string name="battery_monitoring">Supervisar el cambio de nivel de batería</string>
+    <string name="smsbattery_monitoring">Supervisar el cambio de nivel de batería</string>
     <string name="battery_monitoring_notify">"Monitor de batería "</string>
     <string name="bot_token">Token del Bot</string>
     <string name="charger_connect">Cargador conectado.</string>
@@ -81,9 +81,6 @@
     <string name="sendsms_dual">"/sendsms1 - Enviar SMS usando la SIM 1\n/sendsms2 - Enviar SMS usando la SIM 2"</string>
     <string name="service_is_running">El servicio está funcionando ...</string>
     <string name="set_notification_listener">Notificaciones de aplicaciones</string>
-    <string name="sim_card_insert">Tarjeta SIM insertada.</string>
-    <string name="sim_card_lock">Tarjeta SIM bloqueada.</string>
-    <string name="sim_card_remove">Tarjeta SIM extraída.</string>
     <string name="spam_count_title">"Spam filtrado: "</string>
     <string name="spam_sms_keyword_title">Lista negra de SMS</string>
     <string name="spam_keyword_edit_title">Editar palabra clave</string>
