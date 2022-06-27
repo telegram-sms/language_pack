@@ -14,3 +14,5 @@ I would like to thank the following people for their hard work to localise this 
   - [@Qiaogun](https://github.com/Qiaogun)
 - Spanish
   - [@David Alonso](https://github.com/lpdavidgc)
+- Cantonese (Simp./Trad.) (Remember: these translations are only available when the locale is set/fallbacked to 粵語（香港）or 粤语（中华人民共和国） )
+  - [@ous50](https://github.com/ous50)
