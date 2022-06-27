@@ -78,10 +78,10 @@
     <string name="error_message">"錯誤資訊： "</string>
     <string name="send_ussd_command">/sendussd - 傳送 USSD 請求</string>
     <string name="ussd_code_running">執行紧 USSD 代碼……</string>
-    <string name="privacy_reminder_information">您使用 Telegram SMS 服務，即表示您信任我哋對您个人资讯嘅處理方式。我哋深知呢個問題事關重大，因此一直致力於保護您嘅私隱，並讓您擁有控制權。請您喺使用前仔細閱讀我哋嘅隱私條款，以便您更好地行使你嘅個人權利同保護個人隱私安全。</string>
+    <string name="privacy_reminder_information">您使用 Telegram SMS 服務，即表示您信任我哋對您个人资讯嘅處理方式。\n\n我哋深知呢個問題事關重大，因此一直致力於保護您嘅私隱，並讓您擁有控制權。\n\n請您喺使用前仔細閱讀我哋嘅隱私條款，以便您更好地行使你嘅個人權利同保護個人隱私安全。</string>
     <string name="privacy_reminder_title">隱私權同條款</string>
     <string name="agree">同意</string>
-    <string name="decline">陣間先算</string>
+    <string name="decline">收皮啦你</string>
     <string name="visit_page">瀏覽[隱私條款]網頁</string>
     <string name="failed_resend">重新傳送</string>
     <string name="proxy_enable">啟用</string>
