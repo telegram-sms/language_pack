@@ -21,6 +21,7 @@
     <string name="chat_command">Respuesta al comando de chat</string>
     <string name="chat_command_service_name">"Comando de chat "</string>
     <string name="chat_id">ID de chat</string>
+    <string name="message_thread_id">Topic ID</string>
     <string name="chat_id_or_token_not_config">Primero configura el token del bot y el ID de chat.</string>
     <string name="connect_wait_message">Por favor espera…</string>
     <string name="connect_wait_title">Conectando al servidor de Telegram…</string>

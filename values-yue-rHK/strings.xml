@@ -19,6 +19,7 @@
     <string name="charger_disconnect">充電器已移除。</string>
     <string name="bot_token">機器人令牌</string>
     <string name="chat_id">會話 ID</string>
+    <string name="message_thread_id">Topic ID</string>
     <string name="trusted_phone_number">信任嘅電話冧巴</string>
     <string name="get_recent_chat_id">取得最近嘅會話 ID</string>
     <string name="test_and_save">測試並儲存</string>
