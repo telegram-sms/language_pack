@@ -19,6 +19,7 @@
     <string name="charger_disconnect">AC充電器が取り外されました</string>
     <string name="bot_token">Botトークン</string>
     <string name="chat_id">トークID </string>
+    <string name="message_thread_id">Topic ID</string>
     <string name="trusted_phone_number">信頼できる電話番号</string>
     <string name="get_recent_chat_id">最新のトークIDを取得する</string>
     <string name="test_and_save">テストとセーブ</string>
