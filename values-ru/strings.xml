@@ -55,6 +55,7 @@
     <string name="chat_command">Ответ на команду чата</string>
     <string name="chat_command_service_name">Команда чата </string>
     <string name="chat_id">ID чата</string>
+    <string name="message_thread_id">ID тема</string>
     <string name="chat_id_or_token_not_config">Сначала настройте токен бота и ID чата.</string>
     <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
     <string name="connect_wait_message">Пожалуйста, ждите…</string>
