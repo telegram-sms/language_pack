@@ -18,6 +18,7 @@
     <string name="charger_disconnect">交流充电器已断开。</string>
     <string name="bot_token">机器人令牌</string>
     <string name="chat_id">对话ID</string>
+    <string name="message_thread_id">话题 ID</string>
     <string name="trusted_phone_number">可信的电话号码</string>
     <string name="get_recent_chat_id">获取最近的对话ID</string>
     <string name="test_and_save">测试并保存</string>
