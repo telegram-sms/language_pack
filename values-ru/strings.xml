@@ -17,7 +17,6 @@
     <string name="battery_monitoring">Слежение за изменением уровня заряда батареи</string>
     <string name="battery_monitoring_notify">Монитор батареи </string>
     <string name="bot_token">Токен бота</string>
-    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
     <string name="cancel_button">Отмена</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
