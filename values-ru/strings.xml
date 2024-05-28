@@ -39,7 +39,6 @@
     <string name="donate">Донат</string>
     <string name="enter_content">Пожалуйста, введите сообщение для отправки.</string>
     <string name="enter_number">Пожалуйста, введите номер получателя.</string>
-    <string name="error_icon_content_description">Ошибка</string>
     <string name="error_message">Сообщение об ошибке: </string>
     <string name="error_message_head">Сообщение об ошибке: </string>
     <string name="error_stop_message">Произошла критическая ошибка, программа остановилась.</string>
@@ -78,7 +77,6 @@
     <string name="request">Запрос: </string>
     <string name="restart_service">Фоновая служба была перезапущена.</string>
     <string name="scan_title">Сканировать QR-код</string>
-    <string name="search_menu_title">Поиск</string>
     <string name="select_chat">Выбрать чат</string>
     <string name="send_button">Отправить</string>
     <string name="send_failed">Ошибка</string>
