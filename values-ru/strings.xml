@@ -51,9 +51,6 @@
     <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
     <string name="failed_resend">Повторная отправка неудачного SMS</string>
     <string name="failed_to_get_information">Не удалось получить информацию.</string>
-    <string name="fallback_menu_item_copy_link">Копировать ссылку</string>
-    <string name="fallback_menu_item_open_in_browser">Открыть в браузере</string>
-    <string name="fallback_menu_item_share_link">Отправить ссылку</string>
     <string name="from">От: </string>
     <string name="get_recent_chat_id">Получить последний ID чата</string>
     <string name="get_recent_chat_message">Пожалуйста, отправьте любое сообщение боту.</string>
