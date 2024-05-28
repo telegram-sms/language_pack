@@ -18,8 +18,6 @@
     <string name="battery_monitoring_notify">Монитор батареи </string>
     <string name="bot_token">Токен бота</string>
     <string name="cancel_button">Отмена</string>
-    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
-    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
     <string name="charger_connect">Зарядное устройство подключено.</string>
     <string name="charger_disconnect">Зарядное устройство отключено.</string>
     <string name="charger_status">Следить за состоянием зарядного устройства</string>
@@ -29,11 +27,9 @@
     <string name="chat_id">ID чата</string>
     <string name="message_thread_id">ID тема</string>
     <string name="chat_id_or_token_not_config">Сначала настройте токен бота и ID чата.</string>
-    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
     <string name="connect_wait_message">Пожалуйста, ждите…</string>
     <string name="connect_wait_title">Подключение к серверу Telegram…</string>
     <string name="content">Содержание: </string>
-    <string name="copy_toast_msg">Ссылка скопирована в буфер обмена.</string>
     <string name="current_battery_level">Уровень заряда батареи: </string>
     <string name="current_network_connection_status">Статус сети: </string>
     <string name="decline">Я решу позже</string>
@@ -47,7 +43,6 @@
     <string name="error_message">Сообщение об ошибке: </string>
     <string name="error_message_head">Сообщение об ошибке: </string>
     <string name="error_stop_message">Произошла критическая ошибка, программа остановилась.</string>
-    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
     <string name="failed_resend">Повторная отправка неудачного SMS</string>
     <string name="failed_to_get_information">Не удалось получить информацию.</string>
     <string name="from">От: </string>
@@ -55,8 +50,6 @@
     <string name="get_recent_chat_message">Пожалуйста, отправьте любое сообщение боту.</string>
     <string name="get_recent_chat_title">Получение последних чатов…</string>
     <string name="get_spam_sms">/getspamsms - Получить отфильтрованные спам-сообщения</string>
-    <string name="icon_content_description">Значок диалогового окна</string>
-    <string name="item_view_role_description">Вкладка</string>
     <string name="keywords">Ключевые слова</string>
     <string name="logcat">Посмотреть лог</string>
     <string name="low_battery_status_end">Батарея заряжена до безопасного уровня.</string>
@@ -68,7 +61,6 @@
     <string name="no_spam_history">Нет истории спама</string>
     <string name="not_charging">Не заряжается</string>
     <string name="ok_button">OK</string>
-    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="privacy_reminder_information">Вы должны знать, что использование Telegram-SMS означает, что вы доверяете тому, как мы обрабатываем вашу информацию. Мы полностью понимаем, что это большая ответственность, поэтому мы прилагаем все усилия, чтобы защитить вашу информацию.</string>
     <string name="privacy_reminder_title">Конфиденциальность и условия</string>
@@ -105,7 +97,6 @@
     <string name="spam_keyword_edit_title">Изменить ключевые слова</string>
     <string name="spam_sms_keyword_title">Черный список SMS</string>
     <string name="status">Статус: </string>
-    <string name="status_bar_notification_info_overflow">&gt;999</string>
     <string name="success">Успешно</string>
     <string name="success_connect">Подключено к серверу Telegram.</string>
     <string name="system_message_head">[Системная информация]</string>
