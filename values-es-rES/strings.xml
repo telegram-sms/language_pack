@@ -111,4 +111,10 @@
     <string name="cancel_button">cancelar</string>
     <string name="delete_button">borrar</string>
     <string name="send_button">enviar</string>
+    <string name="check_update">Buscar actualizaciones</string>
+    <string name="update_dialog_title">Nueva versión encontrada</string>
+    <string name="update_dialog_body">%s está disponible para actualizar. \n\nRegistro de cambios:\n\n%s</string>
+    <string name="update_dialog_ok">Actualizar ahora</string>
+    <string name="update_dialog_no">Hablar contigo más tarde</string>
+    <string name="unable_to_obtain_information">No se pudo obtener el mensaje</string>
 </resources>
