@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Lang">es_es</string>
-    <string name="Incoming_number">"Llamada de: "</string>
     <string name="Notification_Listener_title">"Notificaciones de aplicaciones "</string>
     <string name="about_content">"Desarrollador: qwe7002\nTraducción en español: @lpdavidgc\nVersión actual: "</string>
     <string name="about_title">Acerca de</string>
@@ -34,9 +33,6 @@
     <string name="donate">Donar</string>
     <string name="enter_content">Por favor ingresa el mensaje a enviar.</string>
     <string name="enter_number">"Ingresa el número del destinatario."</string>
-    <string name="error_message">"Mensaje de error: "</string>
-    <string name="error_message_head">"Mensaje de error: "</string>
-    <string name="error_stop_message">Ha ocurrido un error fatal, el programa se ha detenido.</string>
     <string name="failed_resend">Reenvío de SMS fallido</string>
     <string name="failed_to_get_information">Error al obtener la información.</string>
     <string name="from">"De: "</string>
@@ -47,7 +43,6 @@
     <string name="keywords">Palabras clave</string>
     <string name="logcat">Ver registro</string>
     <string name="low_battery_status_end">La batería se ha cargado a un nivel seguro.</string>
-    <string name="missed_call_head">Llamada perdida</string>
     <string name="network_error_falls_back_to_sms">Reenviar SMS al número de confianza cuando la red no esté disponible</string>
     <string name="no_camera_permission">Por favor, permite el acceso a la cámara para escanear el código QR.</string>
     <string name="no_logs">Aún no hay registros.</string>
@@ -66,17 +61,13 @@
     <string name="proxy_title">Proxy</string>
     <string name="proxy_username">Nombre de usuario</string>
     <string name="qrcode_notice">"¡Mantén este código QR seguro!\nPor favor, no lo compartas con nadie."</string>
-    <string name="receive_notification_title">[Notificación recibida]</string>
-    <string name="receive_sms_head">SMS Recibido</string>
     <string name="request">"Solicitud: "</string>
     <string name="restart_service">El servicio en segundo plano se ha reiniciado.</string>
     <string name="scan_title">Escanear código QR</string>
     <string name="select_chat">Seleccionar chat</string>
     <string name="send_failed">Fallido</string>
-    <string name="send_sms_head">Enviar SMS</string>
     <string name="send_ussd_command">/sendussd - Enviar solicitud USSD</string>
     <string name="send_ussd_dual_command">"/sendussd1 - Enviar solicitud USSD usando la SIM 1\n/sendussd2 - Enviar solicitud USSD usando la SIM 2"</string>
-    <string name="send_ussd_head">[Enviar USSD]</string>
     <string name="sending">Enviando</string>
     <string name="sendsms">/sendsms - Enviar SMS</string>
     <string name="sendsms_dual">"/sendsms1 - Enviar SMS usando la SIM 1\n/sendsms2 - Enviar SMS usando la SIM 2"</string>
@@ -117,4 +108,10 @@
     <string name="update_dialog_ok">Actualizar ahora</string>
     <string name="update_dialog_no">Hablar contigo más tarde</string>
     <string name="unable_to_obtain_information">No se pudo obtener el mensaje</string>
+    <string name="template_title">Plantilla</string>
+    <string name="reset_button">Restablecer</string>
+    <string name="send_sms_title">Enviar SMS</string>
+    <string name="missed_call_title">Llamada Perdida</string>
+    <string name="receive_sms_title">Recibir SMS</string>
+    <string name="send_ussd_title">Enviar USSD</string>
 </resources>

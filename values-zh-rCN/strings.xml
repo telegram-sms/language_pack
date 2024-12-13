@@ -2,17 +2,11 @@
 <resources>
     <string name="Lang">zh_cn</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
-    <string name="content">"内容: "</string>
-    <string name="from">"来自: "</string>
-    <string name="to">"发送到: "</string>
-    <string name="send_sms_head">发送短信</string>
     <string name="system_message_head">[系统信息]</string>
     <string name="success_connect">您已成功连接到 Telegram 服务器。</string>
     <string name="connect_wait_title">连接到服务器…</string>
     <string name="connect_wait_message">请耐心等待…</string>
     <string name="select_chat">选择对话</string>
-    <string name="missed_call_head">未接来电</string>
-    <string name="Incoming_number">"来电号码: "</string>
     <string name="battery_low">设备电池电量低。</string>
     <string name="charger_connect">交流充电器已连接。</string>
     <string name="charger_disconnect">交流充电器已断开。</string>
@@ -38,7 +32,6 @@
     <string name="battery_monitoring_notify">电池监控</string>
     <string name="chat_command_service_name">聊天命令</string>
     <string name="success">成功</string>
-    <string name="receive_sms_head">收到短信</string>
     <string name="available_command">可用命令:\n/help - 显示帮助信息\n/getinfo - 获取系统信息\n/log - 输出最后10条日志记录</string>
     <string name="restart_service">后台服务已成功重新启动。</string>
     <string name="status">"状态: "</string>
@@ -67,16 +60,12 @@
     <string name="using_privacy_mode">仅响应包含机器人用户名的命令</string>
     <string name="scan_title">扫描二维码</string>
     <string name="no_camera_permission">请允许相机访问以进行二维码扫描。</string>
-    <string name="error_message_head">"错误信息: "</string>
     <string name="app_list">应用列表</string>
     <string name="receive_notification_title">[收到通知]</string>
     <string name="app_name_title">"应用名称: "</string>
     <string name="title">"标题: "</string>
     <string name="Notification_Listener_title">通知侦听器</string>
-    <string name="error_stop_message">发生致命错误，程序已停止。</string>
-    <string name="send_ussd_head">[发送USSD]</string>
     <string name="request">"请求: "</string>
-    <string name="error_message">"错误信息: "</string>
     <string name="send_ussd_command">/sendussd - 发送USSD请求</string>
     <string name="ussd_code_running">正在运行USSD代码…</string>
     <string name="privacy_reminder_information">您使用Telegram SMS服务，即表示您信赖我们对您的信息的处理方式。我们深知这项责任事关重大，因此一直致力于保护您的隐私，并让您拥有控制权。请在使用前仔细阅读我们的隐私条款，以便您更好的行使个人权利及保护个人隐私安全。</string>
@@ -117,4 +106,11 @@
     <string name="update_dialog_ok">立即更新</string>
     <string name="update_dialog_no">稍后提醒</string>
     <string name="unable_to_obtain_information">无法获取信息</string>
+    <string name="template_title">模板</string>
+    <string name="reset_button">重置</string>
+    <string name="send_sms_title">发送短信</string>
+    <string name="missed_call_title">未接来电</string>
+    <string name="receive_sms_title">接收短信</string>
+    <string name="receive_notification_title">接收通知</string>
+    <string name="send_ussd_title">发送 USSD</string>
 </resources>

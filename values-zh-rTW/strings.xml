@@ -2,17 +2,11 @@
 <resources>
     <string name="Lang">zh_tw</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
-    <string name="receive_sms_head">收到簡訊</string>
-    <string name="content">"內容： "</string>
-    <string name="from">"來自： "</string>
-    <string name="to">"傳送到： "</string>
-    <string name="send_sms_head">傳送簡訊</string>
     <string name="system_message_head">[系統訊息]</string>
     <string name="success_connect">您已成功連線到 Telegram 的伺服器。</string>
     <string name="connect_wait_title">連接到伺服器……</string>
     <string name="connect_wait_message">請耐心等待……</string>
     <string name="select_chat">選擇會話</string>
-    <string name="missed_call_head">未接來電</string>
     <string name="Incoming_number">"來電號碼： "</string>
     <string name="battery_low">裝置電池電量低。</string>
     <string name="charger_connect">充電器已插上。</string>
@@ -67,16 +61,12 @@
     <string name="using_privacy_mode">僅回應包含機器人使用者的指令</string>
     <string name="scan_title">掃描二維條碼</string>
     <string name="no_camera_permission">請授予相機權限以進行二維條碼的掃描。</string>
-    <string name="error_message_head">"錯誤資訊： "</string>
     <string name="app_list">應用程式列表</string>
     <string name="receive_notification_title">[收到通知]</string>
     <string name="app_name_title">"應用程式名稱： "</string>
     <string name="title">"標題： "</string>
     <string name="Notification_Listener_title">通知存取</string>
-    <string name="error_stop_message">發生致命錯誤，程式已停止。</string>
-    <string name="send_ussd_head">[傳送 USSD]</string>
     <string name="request">"請求： "</string>
-    <string name="error_message">"錯誤資訊： "</string>
     <string name="send_ussd_command">/sendussd - 傳送 USSD 請求</string>
     <string name="ussd_code_running">正在執行 USSD 代碼……</string>
     <string name="privacy_reminder_information">您使用 Telegram SMS 服務，即表示您信任我們對您的訊息的處理方式。我們深知這項責任事關重大，因此一直奮力於保護您的隱私，並讓您擁有控制權。請在使用前仔細閱讀我們的隱私條款，以便您更好的行使個人權利及保護個人隱私安全。</string>
@@ -117,4 +107,11 @@
     <string name="update_dialog_ok">立即更新</string>
     <string name="update_dialog_no">稍後提醒</string>
     <string name="unable_to_obtain_information">無法獲取信息</string>
+    <string name="template_title">模板</string>
+    <string name="reset_button">重置</string>
+    <string name="send_sms_title">發送短信</string>
+    <string name="missed_call_title">未接來電</string>
+    <string name="receive_sms_title">接收短信</string>
+    <string name="receive_notification_title">接收通知</string>
+    <string name="send_ussd_title">發送 USSD</string>
 </resources>

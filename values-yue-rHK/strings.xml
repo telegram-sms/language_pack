@@ -2,18 +2,11 @@
 <resources>
     <string name="Lang">zh_tw</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
-    <string name="receive_sms_head">收到短訊</string>
-    <string name="content">"內容： "</string>
-    <string name="from">"來自： "</string>
-    <string name="to">"發到： "</string>
-    <string name="send_sms_head">發短訊</string>
     <string name="system_message_head">[系統訊息]</string>
     <string name="success_connect">成功連線到 Telegram 嘅伺服器。</string>
     <string name="connect_wait_title">連緊伺服器……</string>
     <string name="connect_wait_message">麻煩你等陣……</string>
     <string name="select_chat">選擇會話</string>
-    <string name="missed_call_head">未接來電</string>
-    <string name="Incoming_number">"冧巴： "</string>
     <string name="battery_low">電池電量低。</string>
     <string name="charger_connect">充電器已連上。</string>
     <string name="charger_disconnect">充電器已移除。</string>
@@ -67,16 +60,12 @@
     <string name="using_privacy_mode">凈回應包含機器人名嘅指令</string>
     <string name="scan_title">掃描QR Code</string>
     <string name="no_camera_permission">請畀我哋相機權限嚟掃描QR Code。</string>
-    <string name="error_message_head">"錯誤： "</string>
     <string name="app_list">應用程式列表</string>
     <string name="receive_notification_title">[收到通知]</string>
     <string name="app_name_title">"應用程式名稱： "</string>
     <string name="title">"標題： "</string>
     <string name="Notification_Listener_title">通知存取</string>
-    <string name="error_stop_message">發生致命錯誤，程式已停止。</string>
-    <string name="send_ussd_head">[傳送 USSD]</string>
     <string name="request">"請求： "</string>
-    <string name="error_message">"錯誤資訊： "</string>
     <string name="send_ussd_command">/sendussd - 傳送 USSD 請求</string>
     <string name="ussd_code_running">執行紧 USSD 代碼……</string>
     <string name="privacy_reminder_information">您使用 Telegram SMS 服務，即表示您信任我哋對您个人资讯嘅處理方式。\n\n我哋深知呢個問題事關重大，因此一直致力於保護您嘅私隱，並讓您擁有控制權。\n\n請您喺使用前仔細閱讀我哋嘅隱私條款，以便您更好地行使你嘅個人權利同保護個人隱私安全。</string>
@@ -117,4 +106,11 @@
     <string name="update_dialog_ok">立即更新</string>
     <string name="update_dialog_no">稍後提醒</string>
     <string name="unable_to_obtain_information">無法獲取信息</string>
+    <string name="template_title">Template</string>
+    <string name="reset_button">Reset</string>
+    <string name="send_sms_title">Send SMS</string>
+    <string name="missed_call_title">Missed Call</string>
+    <string name="receive_sms_title">Receive SMS</string>
+    <string name="receive_notification_title">Receive Notification</string>
+    <string name="send_ussd_title">Send USSD</string>
 </resources>

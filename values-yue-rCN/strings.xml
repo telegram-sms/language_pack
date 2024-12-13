@@ -2,18 +2,10 @@
 <resources>
     <string name="Lang">zh_cn</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
-    <string name="receive_sms_head">收到短信</string>
-    <string name="content">"內容： "</string>
-    <string name="from">"嚟自： "</string>
-    <string name="to">"发送到： "</string>
-    <string name="send_sms_head">发短信</string>
-    <string name="system_message_head">[系统信息]</string>
     <string name="success_connect">成功连接到 Telegram 嘅服务器。</string>
     <string name="connect_wait_title">连紧都伺服器……</string>
     <string name="connect_wait_message">麻烦你等阵……</string>
     <string name="select_chat">选择会话</string>
-    <string name="missed_call_head">未接来电</string>
-    <string name="Incoming_number">"冧巴： "</string>
     <string name="battery_low">电池电量低。</string>
     <string name="charger_connect">充电器已连上。</string>
     <string name="charger_disconnect">充电器已移除。</string>
@@ -67,16 +59,12 @@
     <string name="using_privacy_mode">净回应包含机器人名嘅指令</string>
     <string name="scan_title">扫描二维码</string>
     <string name="no_camera_permission">麻烦你畀我哋相机权限嚟扫描二维码。</string>
-    <string name="error_message_head">"错误： "</string>
     <string name="app_list">应用列表</string>
     <string name="receive_notification_title">[收到通知]</string>
     <string name="app_name_title">"应用名： "</string>
     <string name="title">"标题： "</string>
     <string name="Notification_Listener_title">通知监听</string>
-    <string name="error_stop_message">发生致命错误，程序已停止。</string>
-    <string name="send_ussd_head">[发送 USSD]</string>
     <string name="request">"麻烦你求： "</string>
-    <string name="error_message">"错误信息： "</string>
     <string name="send_ussd_command">/sendussd - 发送 USSD 请求</string>
     <string name="ussd_code_running">执行紧 USSD 代码……</string>
     <string name="privacy_reminder_information">您使用 Telegram SMS 服务，即表示您信任我哋对您个人信息嘅處理方式。\n\n我哋深知呢個问题事关重大，因此一直致力于保护您嘅私隐，并让您拥有控制权。\n\n麻烦您喺使用前仔细阅读我哋嘅隐私条款，以便您更好地行使你嘅个人权利同保護个人隱私安全。</string>
@@ -118,4 +106,11 @@
     <string name="update_dialog_ok">立即更新</string>
     <string name="update_dialog_no">稍后提醒</string>
     <string name="unable_to_obtain_information">无法获取信息</string>
+    <string name="template_title">Template</string>
+    <string name="reset_button">Reset</string>
+    <string name="send_sms_title">Send SMS</string>
+    <string name="missed_call_title">Missed Call</string>
+    <string name="receive_sms_title">Receive SMS</string>
+    <string name="receive_notification_title">Receive Notification</string>
+    <string name="send_ussd_title">Send USSD</string>
 </resources>
