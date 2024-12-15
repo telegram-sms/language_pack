@@ -113,4 +113,8 @@
     <string name="receive_sms_title">SMS受信</string>
     <string name="receive_notification_title">通知受信</string>
     <string name="send_ussd_title">USSD送信</string>
+    <string name="edit_cc_service">CCサービスを編集</string>
+    <string name="add_cc_service">CCサービスを追加</string>
+    <string name="copy_notification_menu">カーボンコピー</string>
+    <string name="verification_code">"（認証コード）"</string>
 </resources>
