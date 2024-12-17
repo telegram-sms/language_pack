@@ -114,8 +114,9 @@
     <string name="missed_call_title">Llamada Perdida</string>
     <string name="receive_sms_title">Recibir SMS</string>
     <string name="send_ussd_title">Enviar USSD</string>
-    <string name="edit_cc_service">Editar servicio CC</string>
-    <string name="add_cc_service">Agregar servicio CC</string>
+    <string name="battery_title">Monitor de batería</string>
+    <string name="edit_cc_service">Editar servicio Cc</string>
+    <string name="add_cc_service">Agregar servicio Cc</string>
     <string name="copy_notification_menu">Copia de carbón</string>
     <string name="verification_code">" (Código de verificación)"</string>
 </resources>

@@ -113,6 +113,7 @@
     <string name="receive_sms_title">接收短信</string>
     <string name="receive_notification_title">接收通知</string>
     <string name="send_ussd_title">发送 USSD</string>
+    <string name="battery_title">电池监控</string>
     <string name="edit_cc_service">编辑服务</string>
     <string name="add_cc_service">添加服务</string>
     <string name="copy_notification_menu">抄送</string>
