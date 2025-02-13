@@ -119,4 +119,23 @@
     <string name="add_cc_service">Agregar servicio Cc</string>
     <string name="copy_notification_menu">Copia de carbón</string>
     <string name="verification_code">" (Código de verificación)"</string>
+    <string name="error_title">Error</string>
+    <string name="an_error_occurred_while_decrypting_the_configuration">Ocurrió un error al descifrar la configuración</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Ocurrió un error al obtener la configuración: "</string>
+    <string name="error_id_cannot_be_empty">El ID no puede estar vacío</string>
+    <string name="error_password_cannot_be_empty">La contraseña no puede estar vacía</string>
+    <string name="error_id_must_be_9_characters">El ID debe tener 9 caracteres</string>
+    <string name="configuration_sent_successfully">"Configuración enviada con éxito.\nID: "</string>
+    <string name="please_enter_your_info">Por favor, ingrese su información de configuración</string>
+    <string name="getting_configuration">Obteniendo configuración</string>
+    <string name="sending_configuration">Enviando configuración</string>
+    <string name="please_enter_your_password">Por favor, ingrese su contraseña</string>
+    <string name="error_password_must_be_6_characters">La longitud de la contraseña debe ser mayor a 6 caracteres</string>
+    <string name="invalid_json_structure">Estructura JSON inválida</string>
+    <string name="no_entries_available">No hay entradas disponibles</string>
+    <string name="cc_service_enabled">" (Habilitado)"</string>
+    <string name="cc_service_disabled">" (Deshabilitado)"</string>
+    <string name="this_is_a_test_message">Este es un mensaje de prueba.</string>
+    <string name="no_service_available">No hay servicio disponible.</string>
+    <string name="cc_service_config_title">Por favor, seleccione el servicio que necesita ser copiado</string>
 </resources>

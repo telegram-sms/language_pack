@@ -118,4 +118,23 @@
     <string name="add_cc_service">添加服务</string>
     <string name="copy_notification_menu">抄送</string>
     <string name="verification_code">"（验证码）"</string>
+    <string name="error_title">错误</string>
+    <string name="an_error_occurred_while_decrypting_the_configuration">解密配置时发生错误</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"获取配置时发生错误: "</string>
+    <string name="error_id_cannot_be_empty">ID不能为空</string>
+    <string name="error_password_cannot_be_empty">密码不能为空</string>
+    <string name="error_id_must_be_9_characters">ID必须是9个字符</string>
+    <string name="configuration_sent_successfully">"配置已成功发送。\nID: "</string>
+    <string name="please_enter_your_info">请输入您的配置信息</string>
+    <string name="getting_configuration">正在获取配置</string>
+    <string name="sending_configuration">正在发送配置</string>
+    <string name="please_enter_your_password">请输入您的密码</string>
+    <string name="error_password_must_be_6_characters">密码长度必须大于6个字符</string>
+    <string name="invalid_json_structure">无效的JSON结构</string>
+    <string name="no_entries_available">没有可用的条目</string>
+    <string name="cc_service_enabled">" (启用)"</string>
+    <string name="cc_service_disabled">" (禁用)"</string>
+    <string name="this_is_a_test_message">这是一条测试消息。</string>
+    <string name="no_service_available">没有可用的服务。</string>
+    <string name="cc_service_config_title">请选择需要复制的服务</string>
 </resources>

@@ -120,5 +120,24 @@
     <string name="edit_cc_service">Редактировать службу Cc</string>
     <string name="add_cc_service">Добавить службу Cc/string>
     <string name="copy_notification_menu">Копия</string>
-    <string name="verification_code">" (Код подтверждения)"</string>    
+    <string name="verification_code">" (Код подтверждения)"</string>
+    <string name="error_title">Ошибка</string>
+    <string name="an_error_occurred_while_decrypting_the_configuration">Произошла ошибка при расшифровке конфигурации</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Произошла ошибка при получении конфигурации: "</string>
+    <string name="error_id_cannot_be_empty">ID не может быть пустым</string>
+    <string name="error_password_cannot_be_empty">Пароль не может быть пустым</string>
+    <string name="error_id_must_be_9_characters">ID должен содержать 9 символов</string>
+    <string name="configuration_sent_successfully">"Конфигурация успешно отправлена.\nID: "</string>
+    <string name="please_enter_your_info">Пожалуйста, введите информацию о конфигурации</string>
+    <string name="getting_configuration">Получение конфигурации</string>
+    <string name="sending_configuration">Отправка конфигурации</string>
+    <string name="please_enter_your_password">Пожалуйста, введите ваш пароль</string>
+    <string name="error_password_must_be_6_characters">Длина пароля должна быть больше 6 символов</string>
+    <string name="invalid_json_structure">Недопустимая структура JSON</string>
+    <string name="no_entries_available">Нет доступных записей</string>
+    <string name="cc_service_enabled">" (Включено)"</string>
+    <string name="cc_service_disabled">" (Отключено)"</string>
+    <string name="this_is_a_test_message">Это тестовое сообщение.</string>
+    <string name="no_service_available">Нет доступных сервисов.</string>
+    <string name="cc_service_config_title">Пожалуйста, выберите сервис, который нужно скопировать</string>   
 </resources>
