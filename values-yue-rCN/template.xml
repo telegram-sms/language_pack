@@ -6,4 +6,5 @@
     <string name="TPL_missed_call">[{{SIM}}未接来电]\n发件人: {{From}}</string>
     <string name="TPL_notification">[有通知]\nApp: {{APP}}\n标题: {{Title}}\n内容: {{Description}}</string>
     <string name="TPL_send_USSD">[发送 USSD]\n请求: {{Request}}\n响应: {{Response}}</string>
+    <string name="TPL_receiving_call">[{{SIM}}Receiving Call]\nFrom: {{From}}</string>
 </resources>
