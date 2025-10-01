@@ -24,7 +24,6 @@
     <string name="chat_id_or_token_not_config">Primero configura el token del bot y el ID de chat.</string>
     <string name="connect_wait_message">Por favor espera…</string>
     <string name="connect_wait_title">Conectando al servidor de Telegram…</string>
-    <string name="content">"Contenido: "</string>
     <string name="current_battery_level">"Nivel de bateria: "</string>
     <string name="current_network_connection_status">"Estado de la red: "</string>
     <string name="decline">"Decidiré más tarde"</string>
@@ -35,7 +34,6 @@
     <string name="enter_number">"Ingresa el número del destinatario."</string>
     <string name="failed_resend">Reenvío de SMS fallido</string>
     <string name="failed_to_get_information">Error al obtener la información.</string>
-    <string name="from">"De: "</string>
     <string name="get_recent_chat_id">Obtener ID de chat reciente</string>
     <string name="get_recent_chat_message">Por favor, envía algunos mensajes al bot.</string>
     <string name="get_recent_chat_title">Recuperando chats recientes…</string>
@@ -85,7 +83,6 @@
     <string name="time">"Hora: "</string>
     <string name="time_format">dd/MMM/yyyy HH:mm:ss z</string>
     <string name="title">"Título: "</string>
-    <string name="to">"Para: "</string>
     <string name="token_not_configure">Primero configura el token del bot.</string>
     <string name="transfer_configuration">Transferir ajustes</string>
     <string name="trusted_phone_number">Número de teléfono de confianza</string>
