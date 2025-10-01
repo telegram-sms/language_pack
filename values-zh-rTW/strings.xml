@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Lang">zh_tw</string>
+    <string name="Lang">zh-Hant-tw</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
     <string name="system_message_head">[系統訊息]</string>
     <string name="success_connect">您已成功連線到 Telegram 的伺服器。</string>
@@ -112,11 +112,7 @@
     <string name="send_sms_title">發送短信</string>
     <string name="missed_call_title">未接來電</string>
     <string name="receive_sms_title">接收短信</string>
-    <string name="receive_notification_title">接收通知</string>
     <string name="send_ussd_title">發送 USSD</string>
-    <string name="edit_cc_service">編輯抄送（CC）服務</string>
-    <string name="add_cc_service">添加抄送（CC）服務</string>
-    <string name="copy_notification_menu">抄送（CC）</string>
     <string name="battery_title">電池監控</string>
     <string name="edit_cc_service">編輯服務</string>
     <string name="add_cc_service">添加服務</string>
@@ -141,4 +137,6 @@
     <string name="this_is_a_test_message">這是一條測試消息。</string>
     <string name="no_service_available">沒有可用的服務。</string>
     <string name="cc_service_config_title">請選擇需要複製的服務</string>
+    <string name="call_notify">提醒來電</string>
+    <string name="receiving_call_title">Receiving Call</string>
 </resources>
