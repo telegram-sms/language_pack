@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Lang">zh-Hant-tw</string>
+    <string name="Lang">zh_tw</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
     <string name="system_message_head">[系統訊息]</string>
     <string name="success_connect">您已成功連線到 Telegram 的伺服器。</string>
