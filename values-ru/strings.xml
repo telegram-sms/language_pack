@@ -114,11 +114,10 @@
     <string name="send_sms_title">Отправить SMS</string>
     <string name="missed_call_title">Пропущенный звонок</string>
     <string name="receive_sms_title">Получить SMS</string>
-    <string name="receive_notification_title">Получить уведомление</string>
     <string name="send_ussd_title">Отправить USSD</string>
     <string name="battery_title">Мониторинг батареи</string>
     <string name="edit_cc_service">Редактировать службу Cc</string>
-    <string name="add_cc_service">Добавить службу Cc/string>
+    <string name="add_cc_service">Добавить службу Cc</string>
     <string name="copy_notification_menu">Копия</string>
     <string name="verification_code">" (Код подтверждения)"</string>
     <string name="error_title">Ошибка</string>

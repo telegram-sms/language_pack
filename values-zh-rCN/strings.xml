@@ -111,7 +111,6 @@
     <string name="send_sms_title">发送短信</string>
     <string name="missed_call_title">未接来电</string>
     <string name="receive_sms_title">接收短信</string>
-    <string name="receive_notification_title">接收通知</string>
     <string name="send_ussd_title">发送 USSD</string>
     <string name="battery_title">电池监控</string>
     <string name="edit_cc_service">编辑服务</string>

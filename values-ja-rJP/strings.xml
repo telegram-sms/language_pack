@@ -111,7 +111,6 @@
     <string name="send_sms_title">SMS送信</string>
     <string name="missed_call_title">不在着信</string>
     <string name="receive_sms_title">SMS受信</string>
-    <string name="receive_notification_title">通知受信</string>
     <string name="send_ussd_title">USSD送信</string>
     <string name="battery_title">バッテリー監視</string>
     <string name="edit_cc_service">サービスを編集</string>
