@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="TPL_received_sms">[{{SIM}}SMS受信]\n送信元: {{From}}\n内容: {{Content}}</string>
-    <string name="TPL_received_mms">[{{SIM}}MMS受信]\n送信元: {{From}}\n件名: {{Subject}}\nタイプ: {{ContentType}}\nサイズ: {{Size}}</string>
+    <string name="TPL_received_mms">[{{SIM}}MMS受信]\n送信元: {{From}}\n件名: {{Subject}}\n内容: {{Content}}</string>
     <string name="TPL_send_sms">[{{SIM}}SMS送信]\n送信先: {{To}}\n内容: {{Content}}</string>
     <string name="TPL_send_sms_chat">[{{SIM}}SMS送信]\n{{Content}}</string>
     <string name="TPL_missed_call">[{{SIM}}不在着信]\n送信元: {{From}}</string>

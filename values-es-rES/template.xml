@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="TPL_received_sms">[{{SIM}}Recibir SMS]\nDe: {{From}}\nContenido: {{Content}}</string>
-    <string name="TPL_received_mms">[{{SIM}}Recibir MMS]\nDe: {{From}}\nAsunto: {{Subject}}\nTipo: {{ContentType}}\nTamaño: {{Size}}</string>
+    <string name="TPL_received_mms">[{{SIM}}Recibir MMS]\nDe: {{From}}\nAsunto: {{Subject}}\nContenido: {{Content}}</string>
     <string name="TPL_send_sms">[{{SIM}}Enviar SMS]\nA: {{To}}\nContenido: {{Content}}</string>
     <string name="TPL_send_sms_chat">[{{SIM}}Enviar SMS]\n{{Content}}</string>
     <string name="TPL_missed_call">[{{SIM}}Llamada Perdida]\nDe: {{From}}</string>
