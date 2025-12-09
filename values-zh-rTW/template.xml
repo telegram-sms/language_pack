@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="TPL_received_sms">[{{SIM}}接收短信]\n發件人: {{From}}\n內容: {{Content}}</string>
+    <string name="TPL_received_mms">[{{SIM}}接收彩信]\n發件人: {{From}}\n主題: {{Subject}}\n類型: {{ContentType}}\n大小: {{Size}}</string>
     <string name="TPL_send_sms">[{{SIM}}發送短信]\n收件人: {{To}}\n內容: {{Content}}</string>
     <string name="TPL_send_sms_chat">[{{SIM}}發送短信]\n{{Content}}</string>
     <string name="TPL_missed_call">[{{SIM}}未接來電]\n發件人: {{From}}</string>
