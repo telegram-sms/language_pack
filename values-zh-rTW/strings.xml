@@ -139,4 +139,24 @@
     <string name="cc_service_config_title">請選擇需要複製的服務</string>
     <string name="call_notify">提醒來電</string>
     <string name="receiving_call_title">Receiving Call</string>
+    <!-- SMS Management -->
+    <string name="listsms_command">/listsms - 列出簡訊記錄</string>
+    <string name="listsms_inbox_command">/listsms inbox - 列出收件匣\n/listsms sent - 列出已發送簡訊</string>
+    <string name="sms_list_header">📱 簡訊列表 (%1$s)</string>
+    <string name="sms_list_empty">沒有找到簡訊。</string>
+    <string name="sms_detail_header">📩 簡訊詳情</string>
+    <string name="sms_from">寄件人:</string>
+    <string name="sms_to">收件人:</string>
+    <string name="sms_date">日期:</string>
+    <string name="sms_content">內容:</string>
+    <string name="sms_type_inbox">收件匣</string>
+    <string name="sms_type_sent">已發送</string>
+    <string name="sms_type_all">全部</string>
+    <string name="sms_not_found">找不到簡訊。</string>
+    <string name="sms_deleted">簡訊已成功刪除。</string>
+    <string name="sms_delete_failed">刪除簡訊失敗。</string>
+    <string name="sms_delete_confirm">確定要刪除這則簡訊嗎？</string>
+    <string name="not_default_sms_app">此功能需要將應用程式設為預設簡訊應用程式。</string>
+    <string name="prev_page">上一頁</string>
+    <string name="next_page">下一頁</string>
 </resources>

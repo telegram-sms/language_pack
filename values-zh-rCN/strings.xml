@@ -136,4 +136,24 @@
     <string name="this_is_a_test_message">这是一条测试消息。</string>
     <string name="no_service_available">没有可用的服务。</string>
     <string name="cc_service_config_title">请选择需要复制的服务</string>
+    <!-- SMS Management -->
+    <string name="listsms_command">/listsms - 列出短信记录</string>
+    <string name="listsms_inbox_command">/listsms inbox - 列出收件箱\n/listsms sent - 列出已发送短信</string>
+    <string name="sms_list_header">📱 短信列表 (%1$s)</string>
+    <string name="sms_list_empty">没有找到短信。</string>
+    <string name="sms_detail_header">📩 短信详情</string>
+    <string name="sms_from">发件人:</string>
+    <string name="sms_to">收件人:</string>
+    <string name="sms_date">日期:</string>
+    <string name="sms_content">内容:</string>
+    <string name="sms_type_inbox">收件箱</string>
+    <string name="sms_type_sent">已发送</string>
+    <string name="sms_type_all">全部</string>
+    <string name="sms_not_found">找不到短信。</string>
+    <string name="sms_deleted">短信已成功删除。</string>
+    <string name="sms_delete_failed">删除短信失败。</string>
+    <string name="sms_delete_confirm">确定要删除这条短信吗？</string>
+    <string name="not_default_sms_app">此功能需要将应用设为默认短信应用。</string>
+    <string name="prev_page">上一页</string>
+    <string name="next_page">下一页</string>
 </resources>
