@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <resources>
-    <string name="Incoming_number">Звонок от: </string>
-    <string name="Lang">ru_RU</string>
+    <string name="Lang">ru_ru</string>
     <string name="Notification_Listener_title">Слушатель уведомлений </string>
     <string name="about_content">Разработчик: qwe7002nРусский перевод: @marat2509nТекущая версия: </string>
     <string name="about_title">О нас</string>
@@ -9,10 +8,7 @@
     <string name="airplane_mode">Устройство находится в режиме полета</string>
     <string name="app_list">Список приложений</string>
     <string name="app_name_title">Приложение: </string>
-    <string name="available_command">Доступные команды:
-/help - Показать справочную информацию
-/getinfo - Получить системную информацию
-/log — вывести последние 10 записей журнала</string>
+    <string name="available_command">Доступные команды:\n/help - Показать справочную информацию\n/getinfo - Получить системную информацию\n/log - Вывести последние 10 записей журнала</string>
     <string name="battery_low">Низкий уровень заряда батареи.</string>
     <string name="battery_monitoring">Слежение за изменением уровня заряда батареи</string>
     <string name="battery_monitoring_notify">Монитор батареи </string>
@@ -29,7 +25,6 @@
     <string name="chat_id_or_token_not_config">Сначала настройте токен бота и ID чата.</string>
     <string name="connect_wait_message">Пожалуйста, ждите…</string>
     <string name="connect_wait_title">Подключение к серверу Telegram…</string>
-    <string name="content">Содержание: </string>
     <string name="current_battery_level">Уровень заряда батареи: </string>
     <string name="current_network_connection_status">Статус сети: </string>
     <string name="decline">Я решу позже</string>
@@ -39,12 +34,8 @@
     <string name="donate">Донат</string>
     <string name="enter_content">Пожалуйста, введите сообщение для отправки.</string>
     <string name="enter_number">Пожалуйста, введите номер получателя.</string>
-    <string name="error_message">Сообщение об ошибке: </string>
-    <string name="error_message_head">Сообщение об ошибке: </string>
-    <string name="error_stop_message">Произошла критическая ошибка, программа остановилась.</string>
     <string name="failed_resend">Повторная отправка неудачного SMS</string>
     <string name="failed_to_get_information">Не удалось получить информацию.</string>
-    <string name="from">От: </string>
     <string name="get_recent_chat_id">Получить последний ID чата</string>
     <string name="get_recent_chat_message">Пожалуйста, отправьте любое сообщение боту.</string>
     <string name="get_recent_chat_title">Получение последних чатов…</string>
@@ -52,7 +43,6 @@
     <string name="keywords">Ключевые слова</string>
     <string name="logcat">Посмотреть лог</string>
     <string name="low_battery_status_end">Батарея заряжена до безопасного уровня.</string>
-    <string name="missed_call_head">Пропущенный вызов</string>
     <string name="network_error_falls_back_to_sms">Пересылать SMS на доверенный номер, когда сеть недоступна</string>
     <string name="no_camera_permission">Разрешите доступ к камере для сканирования QR-кода.</string>
     <string name="no_logs">Логов пока нет.</string>
@@ -70,24 +60,19 @@
     <string name="proxy_port">Порт</string>
     <string name="proxy_title">Прокси</string>
     <string name="proxy_username">Имя пользователя</string>
-    <string name="qrcode_notice">Сохраните этот QR-код!
-Пожалуйста, не делитесь им с другими.</string>
+    <string name="qrcode_notice">Пожалуйста, убедитесь, что этот QR-код в безопасности!\nНе делитесь им с другими.</string>
     <string name="receive_notification_title">[Получено уведомление]</string>
-    <string name="receive_sms_head">Принять SMS</string>
     <string name="request">Запрос: </string>
     <string name="restart_service">Фоновая служба была перезапущена.</string>
     <string name="scan_title">Сканировать QR-код</string>
     <string name="select_chat">Выбрать чат</string>
     <string name="send_button">Отправить</string>
     <string name="send_failed">Ошибка</string>
-    <string name="send_sms_head">Отправить SMS</string>
     <string name="send_ussd_command">/sendussd - Отправить USSD-запрос</string>
     <string name="send_ussd_dual_command">/sendussd1 - Отправить USSD-запрос, используя SIM-слот 1n/sendussd2 - Отправить USSD-запрос, используя SIM-слот 2</string>
-    <string name="send_ussd_head">[Отправка USSD]</string>
     <string name="sending">Отправка</string>
     <string name="sendsms">/sendsms - отправить SMS</string>
-    <string name="sendsms_dual">/sendsms1 - Отправить SMS, используя слот SIM 1
-/sendsms2 - Отправить SMS, используя слот SIM 2</string>
+    <string name="sendsms_dual">/sendsms1 - Отправить SMS, используя SIM-слот 1\n/sendsms2 - Отправить SMS, используя SIM-слот 2</string>
     <string name="service_is_running">Служба работает…</string>
     <string name="set_notification_listener">Слушатель уведомлений</string>
     <string name="spam_count_title">Отфильтрованный спам: </string>
@@ -102,7 +87,6 @@
     <string name="time">Время: </string>
     <string name="time_format">dd.MM.yyyy HH:mm:ss z</string>
     <string name="title">Заголовок: </string>
-    <string name="to">Кому: </string>
     <string name="token_not_configure">Сначала настройте токен бота.</string>
     <string name="transfer_configuration">Перенести конфигурацию</string>
     <string name="trusted_phone_number">Доверенный номер телефона</string>
@@ -116,4 +100,40 @@
     <string name="using_verification_code_identification">Автоматическое извлечение проверочного кода (Альфа)</string>
     <string name="ussd_code_running">USSD код выполняется…</string>
     <string name="visit_page">Посетить страницу условий конфиденциальности</string>
+    <string name="check_update">Проверить обновления</string>
+    <string name="update_dialog_title">Найдена новая версия</string>
+    <string name="update_dialog_body">%s доступна для обновления. \n\nЖурнал изменений:\n\n%s</string>
+    <string name="update_dialog_ok">Обновить сейчас</string>
+    <string name="update_dialog_no">Напомнить позже</string>
+    <string name="unable_to_obtain_information">Не удалось получить сообщение</string>
+    <string name="template_title">Шаблон</string>
+    <string name="reset_button">Сброс</string>
+    <string name="send_sms_title">Отправить SMS</string>
+    <string name="missed_call_title">Пропущенный звонок</string>
+    <string name="receive_sms_title">Получить SMS</string>
+    <string name="send_ussd_title">Отправить USSD</string>
+    <string name="battery_title">Мониторинг батареи</string>
+    <string name="edit_cc_service">Редактировать службу Cc</string>
+    <string name="add_cc_service">Добавить службу Cc</string>
+    <string name="copy_notification_menu">Копия</string>
+    <string name="verification_code">" (Код подтверждения)"</string>
+    <string name="error_title">Ошибка</string>
+    <string name="an_error_occurred_while_decrypting_the_configuration">Произошла ошибка при расшифровке конфигурации</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Произошла ошибка при получении конфигурации: "</string>
+    <string name="error_id_cannot_be_empty">ID не может быть пустым</string>
+    <string name="error_password_cannot_be_empty">Пароль не может быть пустым</string>
+    <string name="error_id_must_be_9_characters">ID должен содержать 9 символов</string>
+    <string name="configuration_sent_successfully">"Конфигурация успешно отправлена.\nID: "</string>
+    <string name="please_enter_your_info">Пожалуйста, введите информацию о конфигурации</string>
+    <string name="getting_configuration">Получение конфигурации</string>
+    <string name="sending_configuration">Отправка конфигурации</string>
+    <string name="please_enter_your_password">Пожалуйста, введите ваш пароль</string>
+    <string name="error_password_must_be_6_characters">Длина пароля должна быть больше 6 символов</string>
+    <string name="invalid_json_structure">Недопустимая структура JSON</string>
+    <string name="no_entries_available">Нет доступных записей</string>
+    <string name="cc_service_enabled">" (Включено)"</string>
+    <string name="cc_service_disabled">" (Отключено)"</string>
+    <string name="this_is_a_test_message">Это тестовое сообщение.</string>
+    <string name="no_service_available">Нет доступных сервисов.</string>
+    <string name="cc_service_config_title">Пожалуйста, выберите сервис, который нужно скопировать</string>
 </resources>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Lang">es_es</string>
-    <string name="Incoming_number">"Llamada de: "</string>
     <string name="Notification_Listener_title">"Notificaciones de aplicaciones "</string>
     <string name="about_content">"Desarrollador: qwe7002\nTraducción en español: @lpdavidgc\nVersión actual: "</string>
     <string name="about_title">Acerca de</string>
@@ -25,7 +24,6 @@
     <string name="chat_id_or_token_not_config">Primero configura el token del bot y el ID de chat.</string>
     <string name="connect_wait_message">Por favor espera…</string>
     <string name="connect_wait_title">Conectando al servidor de Telegram…</string>
-    <string name="content">"Contenido: "</string>
     <string name="current_battery_level">"Nivel de bateria: "</string>
     <string name="current_network_connection_status">"Estado de la red: "</string>
     <string name="decline">"Decidiré más tarde"</string>
@@ -34,12 +32,8 @@
     <string name="donate">Donar</string>
     <string name="enter_content">Por favor ingresa el mensaje a enviar.</string>
     <string name="enter_number">"Ingresa el número del destinatario."</string>
-    <string name="error_message">"Mensaje de error: "</string>
-    <string name="error_message_head">"Mensaje de error: "</string>
-    <string name="error_stop_message">Ha ocurrido un error fatal, el programa se ha detenido.</string>
     <string name="failed_resend">Reenvío de SMS fallido</string>
     <string name="failed_to_get_information">Error al obtener la información.</string>
-    <string name="from">"De: "</string>
     <string name="get_recent_chat_id">Obtener ID de chat reciente</string>
     <string name="get_recent_chat_message">Por favor, envía algunos mensajes al bot.</string>
     <string name="get_recent_chat_title">Recuperando chats recientes…</string>
@@ -47,7 +41,6 @@
     <string name="keywords">Palabras clave</string>
     <string name="logcat">Ver registro</string>
     <string name="low_battery_status_end">La batería se ha cargado a un nivel seguro.</string>
-    <string name="missed_call_head">Llamada perdida</string>
     <string name="network_error_falls_back_to_sms">Reenviar SMS al número de confianza cuando la red no esté disponible</string>
     <string name="no_camera_permission">Por favor, permite el acceso a la cámara para escanear el código QR.</string>
     <string name="no_logs">Aún no hay registros.</string>
@@ -66,17 +59,13 @@
     <string name="proxy_title">Proxy</string>
     <string name="proxy_username">Nombre de usuario</string>
     <string name="qrcode_notice">"¡Mantén este código QR seguro!\nPor favor, no lo compartas con nadie."</string>
-    <string name="receive_notification_title">[Notificación recibida]</string>
-    <string name="receive_sms_head">SMS Recibido</string>
     <string name="request">"Solicitud: "</string>
     <string name="restart_service">El servicio en segundo plano se ha reiniciado.</string>
     <string name="scan_title">Escanear código QR</string>
     <string name="select_chat">Seleccionar chat</string>
     <string name="send_failed">Fallido</string>
-    <string name="send_sms_head">Enviar SMS</string>
     <string name="send_ussd_command">/sendussd - Enviar solicitud USSD</string>
     <string name="send_ussd_dual_command">"/sendussd1 - Enviar solicitud USSD usando la SIM 1\n/sendussd2 - Enviar solicitud USSD usando la SIM 2"</string>
-    <string name="send_ussd_head">[Enviar USSD]</string>
     <string name="sending">Enviando</string>
     <string name="sendsms">/sendsms - Enviar SMS</string>
     <string name="sendsms_dual">"/sendsms1 - Enviar SMS usando la SIM 1\n/sendsms2 - Enviar SMS usando la SIM 2"</string>
@@ -94,7 +83,6 @@
     <string name="time">"Hora: "</string>
     <string name="time_format">dd/MMM/yyyy HH:mm:ss z</string>
     <string name="title">"Título: "</string>
-    <string name="to">"Para: "</string>
     <string name="token_not_configure">Primero configura el token del bot.</string>
     <string name="transfer_configuration">Transferir ajustes</string>
     <string name="trusted_phone_number">Número de teléfono de confianza</string>
@@ -111,4 +99,40 @@
     <string name="cancel_button">cancelar</string>
     <string name="delete_button">borrar</string>
     <string name="send_button">enviar</string>
+    <string name="check_update">Buscar actualizaciones</string>
+    <string name="update_dialog_title">Nueva versión encontrada</string>
+    <string name="update_dialog_body">%s está disponible para actualizar. \n\nRegistro de cambios:\n\n%s</string>
+    <string name="update_dialog_ok">Actualizar ahora</string>
+    <string name="update_dialog_no">Hablar contigo más tarde</string>
+    <string name="unable_to_obtain_information">No se pudo obtener el mensaje</string>
+    <string name="template_title">Plantilla</string>
+    <string name="reset_button">Restablecer</string>
+    <string name="send_sms_title">Enviar SMS</string>
+    <string name="missed_call_title">Llamada Perdida</string>
+    <string name="receive_sms_title">Recibir SMS</string>
+    <string name="send_ussd_title">Enviar USSD</string>
+    <string name="battery_title">Monitor de batería</string>
+    <string name="edit_cc_service">Editar servicio Cc</string>
+    <string name="add_cc_service">Agregar servicio Cc</string>
+    <string name="copy_notification_menu">Copia de carbón</string>
+    <string name="verification_code">" (Código de verificación)"</string>
+    <string name="error_title">Error</string>
+    <string name="an_error_occurred_while_decrypting_the_configuration">Ocurrió un error al descifrar la configuración</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Ocurrió un error al obtener la configuración: "</string>
+    <string name="error_id_cannot_be_empty">El ID no puede estar vacío</string>
+    <string name="error_password_cannot_be_empty">La contraseña no puede estar vacía</string>
+    <string name="error_id_must_be_9_characters">El ID debe tener 9 caracteres</string>
+    <string name="configuration_sent_successfully">"Configuración enviada con éxito.\nID: "</string>
+    <string name="please_enter_your_info">Por favor, ingrese su información de configuración</string>
+    <string name="getting_configuration">Obteniendo configuración</string>
+    <string name="sending_configuration">Enviando configuración</string>
+    <string name="please_enter_your_password">Por favor, ingrese su contraseña</string>
+    <string name="error_password_must_be_6_characters">La longitud de la contraseña debe ser mayor a 6 caracteres</string>
+    <string name="invalid_json_structure">Estructura JSON inválida</string>
+    <string name="no_entries_available">No hay entradas disponibles</string>
+    <string name="cc_service_enabled">" (Habilitado)"</string>
+    <string name="cc_service_disabled">" (Deshabilitado)"</string>
+    <string name="this_is_a_test_message">Este es un mensaje de prueba.</string>
+    <string name="no_service_available">No hay servicio disponible.</string>
+    <string name="cc_service_config_title">Por favor, seleccione el servicio que necesita ser copiado</string>
 </resources>
