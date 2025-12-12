@@ -2,7 +2,7 @@
 <resources>
     <string name="Lang">ru_ru</string>
     <string name="Notification_Listener_title">Слушатель уведомлений </string>
-    <string name="about_content">Разработчик: qwe7002nРусский перевод: @marat2509nТекущая версия: </string>
+    <string name="about_content">Разработчик: qwe7002n\nРусский перевод: @marat2509n & @MasedMSD\nТекущая версия: </string>
     <string name="about_title">О нас</string>
     <string name="agree">Согласен</string>
     <string name="airplane_mode">Устройство находится в режиме полета</string>
@@ -11,7 +11,7 @@
     <string name="available_command">Доступные команды:\n/help - Показать справочную информацию\n/getinfo - Получить системную информацию\n/log - Вывести последние 10 записей журнала</string>
     <string name="battery_low">Низкий уровень заряда батареи.</string>
     <string name="battery_monitoring">Слежение за изменением уровня заряда батареи</string>
-    <string name="battery_monitoring_notify">Монитор батареи </string>
+    <string name="battery_monitoring_notify">Монитор батареи.\n</string>
     <string name="bot_token">Токен бота</string>
     <string name="cancel_button">Отмена</string>
     <string name="charger_connect">Зарядное устройство подключено.</string>
@@ -61,7 +61,7 @@
     <string name="proxy_title">Прокси</string>
     <string name="proxy_username">Имя пользователя</string>
     <string name="qrcode_notice">Пожалуйста, убедитесь, что этот QR-код в безопасности!\nНе делитесь им с другими.</string>
-    <string name="receive_notification_title">[Получено уведомление]</string>
+    <string name="receive_notification_title">Получено уведомление</string>
     <string name="request">Запрос: </string>
     <string name="restart_service">Фоновая служба была перезапущена.</string>
     <string name="scan_title">Сканировать QR-код</string>
@@ -106,7 +106,7 @@
     <string name="update_dialog_ok">Обновить сейчас</string>
     <string name="update_dialog_no">Напомнить позже</string>
     <string name="unable_to_obtain_information">Не удалось получить сообщение</string>
-    <string name="template_title">Шаблон</string>
+    <string name="template_title">Шаблоны</string>
     <string name="reset_button">Сброс</string>
     <string name="send_sms_title">Отправить SMS</string>
     <string name="missed_call_title">Пропущенный звонок</string>
@@ -136,4 +136,10 @@
     <string name="this_is_a_test_message">Это тестовое сообщение.</string>
     <string name="no_service_available">Нет доступных сервисов.</string>
     <string name="cc_service_config_title">Пожалуйста, выберите сервис, который нужно скопировать</string>
+	<string name="call_notify">Уведомлять, когда вам звонят</string>
+    <string name="receiving_call_title">Приём звонка</string>
+    <string name="Incoming_number">Номер входящего звонка:</string>
+    <string name="app_name_title">Название приложения:</string>
+    <string name="title">Заголовок:</string>
+    <string name="system_message_head">Системная информация</string>
 </resources>
