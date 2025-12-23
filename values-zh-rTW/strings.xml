@@ -62,6 +62,7 @@
     <string name="scan_title">掃描二維條碼</string>
     <string name="no_camera_permission">請授予相機權限以進行二維條碼的掃描。</string>
     <string name="app_list">應用程式列表</string>
+    <string name="receive_mms_title">收到多媒體簡訊</string>
     <string name="receive_notification_title">[收到通知]</string>
     <string name="app_name_title">"應用程式名稱： "</string>
     <string name="title">"標題： "</string>
@@ -138,5 +139,6 @@
     <string name="no_service_available">沒有可用的服務。</string>
     <string name="cc_service_config_title">請選擇需要複製的服務</string>
     <string name="call_notify">提醒來電</string>
-    <string name="receiving_call_title">Receiving Call</string>
+    <string name="receiving_call_title">收到來電</string>
+    <string name="hide_phone_number">不顯示電話號碼</string>
 </resources>

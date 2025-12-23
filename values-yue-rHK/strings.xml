@@ -61,7 +61,9 @@
     <string name="scan_title">掃描QR Code</string>
     <string name="no_camera_permission">請畀我哋相機權限嚟掃描QR Code。</string>
     <string name="app_list">應用程式列表</string>
+    <string name="receive_mms_title">收到MMS</string>
     <string name="receive_notification_title">[收到通知]</string>
+    <string name="Incoming_number">冧巴：</string>
     <string name="app_name_title">"應用程式名稱： "</string>
     <string name="title">"標題： "</string>
     <string name="Notification_Listener_title">通知存取</string>
@@ -112,6 +114,7 @@
     <string name="missed_call_title">未接來電</string>
     <string name="receive_sms_title">收到 SMS</string>
     <string name="send_ussd_title">Send USSD</string>
+    <string name="battery_title">電池監控</string>
     <string name="edit_cc_service">改 CC Config</string>
     <string name="add_cc_service">加 CC 服務</string>
     <string name="copy_notification_menu">CC 通知</string>
@@ -135,4 +138,7 @@
     <string name="this_is_a_test_message">This is a test message.</string>
     <string name="no_service_available">No service available.</string>
     <string name="cc_service_config_title">Please select the service that needs to be copied</string>
+    <string name="call_notify">提醒來電</string>
+    <string name="receiving_call_title">收到call</string>
+    <string name="hide_phone_number">唔顯示電話冧巴</string>
 </resources>

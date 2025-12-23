@@ -60,7 +60,9 @@
     <string name="scan_title">扫描二维码</string>
     <string name="no_camera_permission">要畀返个相机权限我哋先可以扫二维码㗎。</string>
     <string name="app_list">App 列表</string>
+    <string name="receive_mms_title">收到彩信</string>
     <string name="receive_notification_title">[新通知]</string>
+    <string name="Incoming_number">冧巴：</string>
     <string name="app_name_title">"App 名： "</string>
     <string name="title">"标题： "</string>
     <string name="Notification_Listener_title">通知监听</string>
@@ -111,6 +113,7 @@
     <string name="missed_call_title">未接来电</string>
     <string name="receive_sms_title">收到短信</string>
     <string name="send_ussd_title">发送 USSD 代码</string>
+    <string name="battery_title">电池监控</string>
     <string name="edit_cc_service">编辑CC（副本转送）服务</string>
     <string name="add_cc_service">添加CC（副本转送）服务</string>
     <string name="copy_notification_menu">CC（副本转送）</string>
@@ -134,4 +137,7 @@
     <string name="this_is_a_test_message">This is a test message.</string>
     <string name="no_service_available">No service available.</string>
     <string name="cc_service_config_title">Please select the service that needs to be copied</string>
+    <string name="call_notify">提醒来电</string>
+    <string name="receiving_call_title">收到call</string>
+    <string name="hide_phone_number">唔显示电话冧巴</string>
 </resources>
