@@ -136,10 +136,7 @@
     <string name="this_is_a_test_message">Это тестовое сообщение.</string>
     <string name="no_service_available">Нет доступных сервисов.</string>
     <string name="cc_service_config_title">Пожалуйста, выберите сервис, который нужно скопировать</string>
-	<string name="call_notify">Уведомлять, когда вам звонят</string>
+    <string name="call_notify">Уведомлять, когда вам звонят</string>
     <string name="receiving_call_title">Приём звонка</string>
     <string name="Incoming_number">Номер входящего звонка:</string>
-    <string name="app_name_title">Название приложения:</string>
-    <string name="title">Заголовок:</string>
-    <string name="system_message_head">Системная информация</string>
 </resources>
