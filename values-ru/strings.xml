@@ -2,7 +2,7 @@
 <resources>
     <string name="Lang">ru_ru</string>
     <string name="Notification_Listener_title">Слушатель уведомлений </string>
-    <string name="about_content">Разработчик: qwe7002n\nРусский перевод: @marat2509n & @MasedMSD\nТекущая версия: </string>
+    <string name="about_content">Разработчик: qwe7002n\nРусский перевод: @marat2509n &amp; @MasedMSD\nТекущая версия: </string>
     <string name="about_title">О нас</string>
     <string name="agree">Согласен</string>
     <string name="airplane_mode">Устройство находится в режиме полета</string>
