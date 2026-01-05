@@ -19,7 +19,11 @@
     <string name="sendsms">/sendsms - SMSの送信</string>
     <string name="sendsms_dual">/sendsms1 - 1番目のカードスロットを使用したSMSの送信\n/sendsms2 - 2番目のカードスロットを使用したSMSの送信</string>
     <string name="set_api_title">APIアドレス</string>
-    <string name="spam_count_title">"フィルタリングされたスパム: "</string>
+    <string name="set_api_success">APIアドレスの設定に成功しました。</string>
+    <string name="set_api_failed">APIアドレスの設定に失敗しました。</string>
+    <string name="logout_progress_title">公式APIからログアウト中…</string>
+    <string name="logout_progress_message">しばらくお待ちください…</string>
+    <string name="logout_failed">ログアウトに失敗しました。</string>
     <string name="success_connect">Telegramサーバーに正常に接続しました。</string>
     <string name="test_and_save">テストとセーブ</string>
     <string name="token_not_configure">まず、Botトークンを設定してください。</string>

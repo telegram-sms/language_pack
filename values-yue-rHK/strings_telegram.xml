@@ -19,7 +19,11 @@
     <string name="sendsms">/sendsms - 發短訊</string>
     <string name="sendsms_dual">/sendsms1 - 使用 SIM 咭插槽 1 傳送短訊\n/sendsms2 - 使用 SIM 咭插槽 2 傳送短訊</string>
     <string name="set_api_title">API 地址</string>
-    <string name="spam_count_title">"被過濾咗嘅垃圾短訊："</string>
+    <string name="set_api_success">API 地址設定成功。</string>
+    <string name="set_api_failed">API 地址設定失敗。</string>
+    <string name="logout_progress_title">正喺度從官方 API 登出緊…</string>
+    <string name="logout_progress_message">麻煩你等陣……</string>
+    <string name="logout_failed">登出失敗。</string>
     <string name="success_connect">成功連線到 Telegram 嘅伺服器。</string>
     <string name="test_and_save">測試並儲存</string>
     <string name="token_not_configure">請先配置機器人令牌</string>

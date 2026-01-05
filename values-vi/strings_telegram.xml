@@ -19,7 +19,11 @@
     <string name="sendsms">/sendsms - Gửi tin nhắn SMS</string>
     <string name="sendsms_dual">/sendsms1 - Gửi SMS bằng SIM 1\n/sendsms2 - Gửi SMS bằng SIM 2</string>
     <string name="set_api_title">Địa chỉ API</string>
-    <string name="spam_count_title">"Tin nhắn rác đã lọc: "</string>
+    <string name="set_api_success">Đặt địa chỉ API thành công.</string>
+    <string name="set_api_failed">Không thể đặt địa chỉ API.</string>
+    <string name="logout_progress_title">Đang đăng xuất khỏi API chính thức…</string>
+    <string name="logout_progress_message">Vui lòng đợi…</string>
+    <string name="logout_failed">Đăng xuất thất bại.</string>
     <string name="success_connect">Bạn đã kết nối thành công với máy chủ Telegram.</string>
     <string name="test_and_save">Kiểm tra và Lưu</string>
     <string name="token_not_configure">Vui lòng cấu hình Bot Token trước.</string>

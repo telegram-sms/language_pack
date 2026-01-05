@@ -19,7 +19,11 @@
     <string name="sendsms">/sendsms - 发送短信</string>
     <string name="sendsms_dual">/sendsms1 - 使用SIM卡插槽1发送短信\n/sendsms2 - 使用SIM卡插槽2发送短信</string>
     <string name="set_api_title">API地址</string>
-    <string name="spam_count_title">"过滤的垃圾短信: "</string>
+    <string name="set_api_success">API 地址设置成功。</string>
+    <string name="set_api_failed">API 地址设置失败。</string>
+    <string name="logout_progress_title">正在从官方 API 登出…</string>
+    <string name="logout_progress_message">请耐心等待…</string>
+    <string name="logout_failed">登出失败。</string>
     <string name="success_connect">您已成功连接到 Telegram 服务器。</string>
     <string name="test_and_save">测试并保存</string>
     <string name="token_not_configure">请先配置机器人令牌。</string>

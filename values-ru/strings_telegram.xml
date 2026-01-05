@@ -19,7 +19,11 @@
     <string name="sendsms">/sendsms - отправить SMS</string>
     <string name="sendsms_dual">/sendsms1 - Отправить SMS, используя SIM-слот 1\n/sendsms2 - Отправить SMS, используя SIM-слот 2</string>
     <string name="set_api_title">Адрес API</string>
-    <string name="spam_count_title">Отфильтрованный спам: </string>
+    <string name="set_api_success">Адрес API успешно установлен.</string>
+    <string name="set_api_failed">Не удалось установить адрес API.</string>
+    <string name="logout_progress_title">Выход из официального API…</string>
+    <string name="logout_progress_message">Пожалуйста, ждите…</string>
+    <string name="logout_failed">Не удалось выйти.</string>
     <string name="success_connect">Подключено к серверу Telegram.</string>
     <string name="test_and_save">Протестировать и сохранить</string>
     <string name="token_not_configure">Сначала настройте токен бота.</string>
