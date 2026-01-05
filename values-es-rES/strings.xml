@@ -21,4 +21,6 @@
     <string name="success">Éxito</string>
     <string name="system_message_head">[Información del sistema]</string>
     <string name="time">"Hora: "</string>
+    <string name="send_configuration">Enviar configuración</string>
+    <string name="receive_configuration">Recibir configuración</string>
     </resources>

@@ -21,4 +21,6 @@
     <string name="success">Успешно</string>
     <string name="system_message_head">[Системная информация]</string>
     <string name="time">Время: </string>
+    <string name="send_configuration">Отправить конфигурацию</string>
+    <string name="receive_configuration">Получить конфигурацию</string>
     </resources>

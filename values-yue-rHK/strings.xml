@@ -21,4 +21,6 @@
     <string name="success">成功</string>
     <string name="system_message_head">[系統訊息]</string>
     <string name="time">"時間："</string>
+    <string name="send_configuration">發送配置</string>
+    <string name="receive_configuration">接收配置</string>
     </resources>

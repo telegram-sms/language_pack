@@ -21,4 +21,6 @@
     <string name="success">Thành công</string>
     <string name="system_message_head">[Tin nhắn hệ thống]</string>
     <string name="time">"Thời gian: "</string>
+    <string name="send_configuration">Gửi cấu hình</string>
+    <string name="receive_configuration">Nhận cấu hình</string>
     </resources>

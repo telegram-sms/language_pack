@@ -21,4 +21,6 @@
     <string name="success">完了</string>
     <string name="system_message_head">[システム情報]</string>
     <string name="time">"時間: "</string>
+    <string name="send_configuration">設定を送信</string>
+    <string name="receive_configuration">設定を受信</string>
     </resources>
