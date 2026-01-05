@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">解密配置出錯</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"獲取配置出錯: "</string>
+    <string name="configuration_sent_successfully">"配置發送成功。\nID: "</string>
+    <string name="error_id_cannot_be_empty">ID 唔可以空住</string>
+    <string name="error_id_must_be_9_characters">ID 要係9個字符</string>
+    <string name="error_password_cannot_be_empty">密碼唔可以空住</string>
+    <string name="error_password_must_be_6_characters">密碼長度要多過6個字符</string>
+    <string name="getting_configuration">獲取緊配置</string>
+    <string name="invalid_json_structure">無效嘅JSON結構</string>
+    <string name="no_camera_permission">請畀我哋相機權限嚟掃描QR Code。</string>
+    <string name="no_entries_available">冇可用嘅條目</string>
+    <string name="please_enter_your_info">請輸入配置資訊</string>
+    <string name="please_enter_your_password">請輸入密碼</string>
+    <string name="qrcode_notice">請確保呢個 QR Code 嘅安全！\n亦都唔好分享畀其他人！</string>
+    <string name="scan_title">掃描QR Code</string>
+    <string name="sending_configuration">發送緊配置</string>
+    <string name="transfer_configuration">傳輸設定</string>
+    </resources>

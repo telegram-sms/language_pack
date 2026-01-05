@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="add_cc_service">Thêm dịch vụ</string>
+    <string name="cc_service_config_title">Vui lòng chọn dịch vụ cần sao chép</string>
+    <string name="cc_service_disabled">" (Đã tắt)"</string>
+    <string name="cc_service_enabled">" (Đã bật)"</string>
+    <string name="copy_notification_menu">Sao chép</string>
+    <string name="edit_cc_service">Chỉnh sửa dịch vụ</string>
+    </resources>

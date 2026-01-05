@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Notification_Listener_title">Trình nghe thông báo</string>
+    <string name="app_name_title">Tên ứng dụng:</string>
+    <string name="receive_notification_title">Nhận thông báo</string>
+    <string name="set_notification_listener">Trình nghe thông báo</string>
+    <string name="title">Tiêu đề:</string>
+    </resources>

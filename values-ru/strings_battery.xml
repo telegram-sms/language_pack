@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="battery_low">Низкий уровень заряда батареи.</string>
+    <string name="battery_monitoring">Слежение за изменением уровня заряда батареи</string>
+    <string name="battery_monitoring_notify">Монитор батареи </string>
+    <string name="battery_title">Мониторинг батареи</string>
+    <string name="charger_connect">Зарядное устройство подключено.</string>
+    <string name="charger_disconnect">Зарядное устройство отключено.</string>
+    <string name="charger_status">Следить за состоянием зарядного устройства</string>
+    <string name="charging">Зарядка</string>
+    <string name="current_battery_level">Уровень заряда батареи: </string>
+    <string name="low_battery_status_end">Батарея заряжена до безопасного уровня.</string>
+    <string name="not_charging">Не заряжается</string>
+    </resources>

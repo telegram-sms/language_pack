@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="battery_low">低電力。</string>
+    <string name="battery_monitoring">バッテリー状態の変化を監視する</string>
+    <string name="battery_monitoring_notify">バッテリ監視</string>
+    <string name="battery_title">バッテリー監視</string>
+    <string name="charger_connect">AC充電器が接続されています。</string>
+    <string name="charger_disconnect">AC充電器が取り外されました</string>
+    <string name="charger_status">充電器の状態を監視する</string>
+    <string name="charging">充電中</string>
+    <string name="current_battery_level">"バッテリー残量: "</string>
+    <string name="low_battery_status_end">バッテリー残量が十分になっています。。</string>
+    <string name="not_charging">充電していません</string>
+    </resources>

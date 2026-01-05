@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="airplane_mode">装置处于飞行模式</string>
+    <string name="current_network_connection_status">"网络状态："</string>
+    <string name="doh_over_socks5">透过 Socks5 传输安全域名解析（DoH）嘅请求</string>
+    <string name="no_network">冇信号</string>
+    <string name="no_service_available">冇可用嘅服务。</string>
+    <string name="proxy_dialog_title">Socks5 代理设置</string>
+    <string name="proxy_enable">启用</string>
+    <string name="proxy_host">服务器</string>
+    <string name="proxy_password">密码</string>
+    <string name="proxy_port">连接端口</string>
+    <string name="proxy_title">代理服务器</string>
+    <string name="proxy_username">用户名</string>
+    <string name="using_doh">用安全嘅域名解析（DoH）</string>
+    </resources>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="airplane_mode">Thiết bị đang ở chế độ máy bay</string>
+    <string name="current_network_connection_status">"Trạng thái mạng: "</string>
+    <string name="doh_over_socks5">Truyền DNS qua HTTPS thông qua Socks5</string>
+    <string name="no_network">Không có dịch vụ</string>
+    <string name="no_service_available">Không có dịch vụ nào khả dụng.</string>
+    <string name="proxy_dialog_title">Cài đặt Proxy Socks5</string>
+    <string name="proxy_enable">Bật</string>
+    <string name="proxy_host">Máy chủ</string>
+    <string name="proxy_password">Mật khẩu</string>
+    <string name="proxy_port">Cổng</string>
+    <string name="proxy_title">Proxy</string>
+    <string name="proxy_username">Tên người dùng</string>
+    <string name="using_doh">Sử dụng DNS qua HTTPS</string>
+    </resources>

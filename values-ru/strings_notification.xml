@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Notification_Listener_title">Слушатель уведомлений </string>
+    <string name="app_name_title">Приложение: </string>
+    <string name="receive_notification_title">Получить уведомление</string>
+    <string name="set_notification_listener">Слушатель уведомлений</string>
+    <string name="title">Заголовок: </string>
+    </resources>

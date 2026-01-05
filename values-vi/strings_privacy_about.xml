@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="about_content">"Nhà phát triển: qwe7002\n\nPhiên bản hiện tại: "</string>
+    <string name="about_title">Giới thiệu</string>
+    <string name="agree">Đồng ý</string>
+    <string name="browser_not_found">Không tìm thấy trình duyệt.</string>
+    <string name="check_update">Kiểm tra cập nhật</string>
+    <string name="decline">"Tôi sẽ quyết định sau"</string>
+    <string name="donate">Ủng hộ</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="privacy_reminder_information">Bằng cách sử dụng dịch vụ Telegram SMS, bạn tin tưởng chúng tôi về cách xử lý thông tin của bạn. Chúng tôi hiểu rằng trách nhiệm này là rất lớn, vì vậy chúng tôi luôn cam kết bảo vệ quyền riêng tư của bạn và trao cho bạn quyền kiểm soát. Vui lòng đọc kỹ chính sách bảo mật của chúng tôi trước khi sử dụng để thực hiện tốt hơn các quyền cá nhân và bảo vệ an toàn quyền riêng tư cá nhân.</string>
+    <string name="privacy_reminder_title">Quyền riêng tư và Điều khoản</string>
+    <string name="update_dialog_body">%s có sẵn để cập nhật.</string>
+    <string name="update_dialog_no">Nhắc lại sau</string>
+    <string name="update_dialog_ok">Cập nhật ngay</string>
+    <string name="update_dialog_title">Phát hiện phiên bản mới</string>
+    <string name="user_manual">Hướng dẫn sử dụng</string>
+    <string name="visit_page">Truy cập trang "Chính sách bảo mật"</string>
+    </resources>

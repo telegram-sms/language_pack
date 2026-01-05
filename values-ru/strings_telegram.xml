@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="available_command">Доступные команды:\n/help - Показать справочную информацию\n/getinfo - Получить системную информацию\n/log - Вывести последние 10 записей журнала</string>
+    <string name="bot_token">Токен бота</string>
+    <string name="chat_command">Ответ на команду чата</string>
+    <string name="chat_command_service_name">Команда чата </string>
+    <string name="chat_id">ID чата</string>
+    <string name="chat_id_or_token_not_config">Сначала настройте токен бота и ID чата.</string>
+    <string name="connect_wait_message">Пожалуйста, ждите…</string>
+    <string name="connect_wait_title">Подключение к серверу Telegram…</string>
+    <string name="get_recent_chat_id">Получить последний ID чата</string>
+    <string name="get_recent_chat_message">Пожалуйста, отправьте любое сообщение боту.</string>
+    <string name="get_recent_chat_title">Получение последних чатов…</string>
+    <string name="get_spam_sms">/getspamsms - Получить отфильтрованные спам-сообщения</string>
+    <string name="message_thread_id">ID тема</string>
+    <string name="no_spam_history">Нет истории спама</string>
+    <string name="select_chat">Выбрать чат</string>
+    <string name="send_ussd_command">/sendussd - Отправить USSD-запрос</string>
+    <string name="send_ussd_dual_command">/sendussd1 - Отправить USSD-запрос, используя SIM-слот 1n/sendussd2 - Отправить USSD-запрос, используя SIM-слот 2</string>
+    <string name="sendsms">/sendsms - отправить SMS</string>
+    <string name="sendsms_dual">/sendsms1 - Отправить SMS, используя SIM-слот 1\n/sendsms2 - Отправить SMS, используя SIM-слот 2</string>
+    <string name="set_api_title">Адрес API</string>
+    <string name="spam_count_title">Отфильтрованный спам: </string>
+    <string name="success_connect">Подключено к серверу Telegram.</string>
+    <string name="test_and_save">Протестировать и сохранить</string>
+    <string name="token_not_configure">Сначала настройте токен бота.</string>
+    <string name="unable_get_recent">Не удалось получить недавнюю историю чата</string>
+    <string name="unknown_command">Неизвестная команда, отправьте /help, чтобы получить список доступных команд.</string>
+    <string name="using_privacy_mode">Отвечать только на команды, содержащие имя пользователя бота</string>
+    </resources>

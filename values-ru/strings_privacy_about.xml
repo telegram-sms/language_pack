@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="about_content">Разработчик: qwe7002nРусский перевод: @marat2509nТекущая версия: </string>
+    <string name="about_title">О нас</string>
+    <string name="agree">Согласен</string>
+    <string name="browser_not_found">Браузер не найден.</string>
+    <string name="check_update">Проверить обновления</string>
+    <string name="decline">Я решу позже</string>
+    <string name="donate">Донат</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_reminder_information">Вы должны знать, что использование Telegram-SMS означает, что вы доверяете тому, как мы обрабатываем вашу информацию. Мы полностью понимаем, что это большая ответственность, поэтому мы прилагаем все усилия, чтобы защитить вашу информацию.</string>
+    <string name="privacy_reminder_title">Конфиденциальность и условия</string>
+    <string name="update_dialog_body">%s доступна для обновления.</string>
+    <string name="update_dialog_no">Напомнить позже</string>
+    <string name="update_dialog_ok">Обновить сейчас</string>
+    <string name="update_dialog_title">Найдена новая версия</string>
+    <string name="user_manual">Руководство пользователя</string>
+    <string name="visit_page">Посетить страницу условий конфиденциальности</string>
+    </resources>

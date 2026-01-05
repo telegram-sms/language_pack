@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Notification_Listener_title">"Notificaciones de aplicaciones "</string>
+    <string name="app_name_title">"App: "</string>
+    <string name="receive_notification_title">Recibir notificación</string>
+    <string name="set_notification_listener">Notificaciones de aplicaciones</string>
+    <string name="title">"Título: "</string>
+    </resources>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="battery_low">La batería está baja.</string>
+    <string name="battery_monitoring">Supervisar el cambio de nivel de batería</string>
+    <string name="battery_monitoring_notify">"Monitor de batería "</string>
+    <string name="battery_title">Monitor de batería</string>
+    <string name="charger_connect">Cargador conectado.</string>
+    <string name="charger_disconnect">Cargador desconectado.</string>
+    <string name="charger_status">Supervisar el estado del cargador</string>
+    <string name="charging">Cargando</string>
+    <string name="current_battery_level">"Nivel de bateria: "</string>
+    <string name="low_battery_status_end">La batería se ha cargado a un nivel seguro.</string>
+    <string name="not_charging">No se está cargando</string>
+    </resources>

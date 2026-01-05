@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="battery_low">设备电池电量低。</string>
+    <string name="battery_monitoring">监控电池状态变动</string>
+    <string name="battery_monitoring_notify">电池监控</string>
+    <string name="battery_title">电池监控</string>
+    <string name="charger_connect">交流充电器已连接。</string>
+    <string name="charger_disconnect">交流充电器已断开。</string>
+    <string name="charger_status">监控充电器状态</string>
+    <string name="charging">正在充电</string>
+    <string name="current_battery_level">"电池电量: "</string>
+    <string name="low_battery_status_end">电池电量不足状态已结束。</string>
+    <string name="not_charging">不在充电</string>
+    </resources>

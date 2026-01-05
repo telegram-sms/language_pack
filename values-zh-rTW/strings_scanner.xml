@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">解密配置時發生錯誤</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"獲取配置時發生錯誤: "</string>
+    <string name="configuration_sent_successfully">"配置已成功發送。\nID: "</string>
+    <string name="error_id_cannot_be_empty">ID不能為空</string>
+    <string name="error_id_must_be_9_characters">ID必須是9個字符</string>
+    <string name="error_password_cannot_be_empty">密碼不能為空</string>
+    <string name="error_password_must_be_6_characters">密碼長度必須大於6個字符</string>
+    <string name="getting_configuration">正在獲取配置</string>
+    <string name="invalid_json_structure">無效的JSON結構</string>
+    <string name="no_camera_permission">請授予相機權限以進行二維條碼的掃描。</string>
+    <string name="no_entries_available">沒有可用的條目</string>
+    <string name="please_enter_your_info">請輸入您的配置信息</string>
+    <string name="please_enter_your_password">請輸入您的密碼</string>
+    <string name="qrcode_notice">請確保此二維條碼的安全！\n也請不要與他人共享！</string>
+    <string name="scan_title">掃描二維條碼</string>
+    <string name="sending_configuration">正在發送配置</string>
+    <string name="transfer_configuration">傳輸設定</string>
+    </resources>

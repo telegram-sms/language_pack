@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="about_content">"Desarrollador: qwe7002\nTraducción en español: @lpdavidgc\nVersión actual: "</string>
+    <string name="about_title">Acerca de</string>
+    <string name="agree">De acuerdo</string>
+    <string name="browser_not_found">Navegador no encontrado.</string>
+    <string name="check_update">Buscar actualizaciones</string>
+    <string name="decline">"Decidiré más tarde"</string>
+    <string name="donate">Donar</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="privacy_reminder_information">Debes tener en cuenta que usar Telegram-SMS significa que confías en la forma en que manejamos su información. Entendemos completamente que es una responsabilidad importante, por lo que trabajamos bastante para proteger su información y asegurarnos de que puedas tener todo bajo control. Consulta nuestra política de privacidad para comprender sus derechos y proteger mejor su privacidad.</string>
+    <string name="privacy_reminder_title">Privacidad y condiciones</string>
+    <string name="update_dialog_body">%s está disponible para actualizar.</string>
+    <string name="update_dialog_no">Hablar contigo más tarde</string>
+    <string name="update_dialog_ok">Actualizar ahora</string>
+    <string name="update_dialog_title">Nueva versión encontrada</string>
+    <string name="user_manual">Manual de usuario</string>
+    <string name="visit_page">Visitar la página Términos de privacidad</string>
+    </resources>

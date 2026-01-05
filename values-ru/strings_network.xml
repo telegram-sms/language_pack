@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="airplane_mode">Устройство находится в режиме полета</string>
+    <string name="current_network_connection_status">Статус сети: </string>
+    <string name="doh_over_socks5">Запросы DNS через HTTPS через Socks5</string>
+    <string name="no_network">Нет сети</string>
+    <string name="no_service_available">Нет доступных сервисов.</string>
+    <string name="proxy_dialog_title">Настройка прокси Socks5</string>
+    <string name="proxy_enable">Включить</string>
+    <string name="proxy_host">Сервер</string>
+    <string name="proxy_password">Пароль</string>
+    <string name="proxy_port">Порт</string>
+    <string name="proxy_title">Прокси</string>
+    <string name="proxy_username">Имя пользователя</string>
+    <string name="using_doh">Использование DNS через HTTPS</string>
+    </resources>

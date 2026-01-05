@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="add_cc_service">添加服务</string>
+    <string name="cc_service_config_title">请选择需要复制的服务</string>
+    <string name="cc_service_disabled">" (禁用)"</string>
+    <string name="cc_service_enabled">" (启用)"</string>
+    <string name="copy_notification_menu">抄送</string>
+    <string name="edit_cc_service">编辑服务</string>
+    </resources>

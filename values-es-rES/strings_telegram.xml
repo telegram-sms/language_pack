@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="available_command">"Comandos disponibles:\n/help - Mostrar información de ayuda\n/getinfo - Obtener información del sistema\n/log - Mostrar los últimos 10 registros"</string>
+    <string name="bot_token">Token del Bot</string>
+    <string name="chat_command">Respuesta al comando de chat</string>
+    <string name="chat_command_service_name">"Comando de chat "</string>
+    <string name="chat_id">ID de chat</string>
+    <string name="chat_id_or_token_not_config">Primero configura el token del bot y el ID de chat.</string>
+    <string name="connect_wait_message">Por favor espera…</string>
+    <string name="connect_wait_title">Conectando al servidor de Telegram…</string>
+    <string name="get_recent_chat_id">Obtener ID de chat reciente</string>
+    <string name="get_recent_chat_message">Por favor, envía algunos mensajes al bot.</string>
+    <string name="get_recent_chat_title">Recuperando chats recientes…</string>
+    <string name="get_spam_sms">/getspamsms - Recibir mensajes de spam filtrados</string>
+    <string name="message_thread_id">Topic ID</string>
+    <string name="no_spam_history">Sin historial de spam</string>
+    <string name="select_chat">Seleccionar chat</string>
+    <string name="send_ussd_command">/sendussd - Enviar solicitud USSD</string>
+    <string name="send_ussd_dual_command">"/sendussd1 - Enviar solicitud USSD usando la SIM 1\n/sendussd2 - Enviar solicitud USSD usando la SIM 2"</string>
+    <string name="sendsms">/sendsms - Enviar SMS</string>
+    <string name="sendsms_dual">"/sendsms1 - Enviar SMS usando la SIM 1\n/sendsms2 - Enviar SMS usando la SIM 2"</string>
+    <string name="set_api_title">Dirección API</string>
+    <string name="spam_count_title">"Spam filtrado: "</string>
+    <string name="success_connect">Conectado al servidor de Telegram.</string>
+    <string name="test_and_save">Probar y guardar</string>
+    <string name="token_not_configure">Primero configura el token del bot.</string>
+    <string name="unable_get_recent">Error al obtener el historial de chat reciente</string>
+    <string name="unknown_command">Comando desconocido, envía /help para obtener la lista de comandos disponibles.</string>
+    <string name="using_privacy_mode">Responder solo a los comandos que contienen el nombre de usuario del Bot</string>
+    </resources>

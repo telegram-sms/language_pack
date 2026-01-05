@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Incoming_number">来电号码:</string>
+    <string name="call_notify">提醒来电</string>
+    <string name="hide_phone_number">隐藏电话号码</string>
+    <string name="missed_call_title">未接来电</string>
+    <string name="receive_call_title">接收来电</string>
+    <string name="receiving_call_title">接收来电</string>
+    </resources>

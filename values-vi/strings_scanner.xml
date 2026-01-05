@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">Đã xảy ra lỗi khi giải mã cấu hình</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Đã xảy ra lỗi khi lấy cấu hình: "</string>
+    <string name="configuration_sent_successfully">"Cấu hình đã được gửi thành công.\nID: "</string>
+    <string name="error_id_cannot_be_empty">ID không được để trống</string>
+    <string name="error_id_must_be_9_characters">ID phải có 9 ký tự</string>
+    <string name="error_password_cannot_be_empty">Mật khẩu không được để trống</string>
+    <string name="error_password_must_be_6_characters">Độ dài mật khẩu phải lớn hơn 6 ký tự</string>
+    <string name="getting_configuration">Đang lấy cấu hình</string>
+    <string name="invalid_json_structure">Cấu trúc JSON không hợp lệ</string>
+    <string name="no_camera_permission">Vui lòng cho phép truy cập máy ảnh để quét mã QR.</string>
+    <string name="no_entries_available">Không có mục nào khả dụng</string>
+    <string name="please_enter_your_info">Vui lòng nhập thông tin cấu hình của bạn</string>
+    <string name="please_enter_your_password">Vui lòng nhập mật khẩu của bạn</string>
+    <string name="qrcode_notice">Vui lòng giữ mã QR này an toàn!\nKhông chia sẻ với người khác.</string>
+    <string name="scan_title">Quét mã QR</string>
+    <string name="sending_configuration">Đang gửi cấu hình</string>
+    <string name="transfer_configuration">Cấu hình chuyển giao</string>
+    </resources>

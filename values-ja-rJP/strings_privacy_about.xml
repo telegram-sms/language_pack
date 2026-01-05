@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="about_content">"開発者: qwe7002\n日本語訳: @Lollycc @AisakaMk2 @Qiaogun\n現行版: "</string>
+    <string name="about_title">About</string>
+    <string name="agree">同意する</string>
+    <string name="browser_not_found">ブラウザが見つかりません。</string>
+    <string name="check_update">更新を確認</string>
+    <string name="decline">後で決めます</string>
+    <string name="donate">寄付する</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="privacy_reminder_information">Telegram SMSサービスを使用することにより、お客様の情報の処理方法を信頼することになります。この責任は重要であり、お客様のプライバシーの保護と管理の提供に常に取り組んでいます。個人的な権利を行使し、プライバシーを保護できるように、使用前にプライバシー規約を注意深くお読みください。</string>
+    <string name="privacy_reminder_title">プライバシーと規約</string>
+    <string name="update_dialog_body">%s が更新可能です。</string>
+    <string name="update_dialog_no">後で通知</string>
+    <string name="update_dialog_ok">今すぐ更新</string>
+    <string name="update_dialog_title">新しいバージョンが見つかりました</string>
+    <string name="user_manual">マニュアル</string>
+    <string name="visit_page">プライバシー規約</string>
+    </resources>

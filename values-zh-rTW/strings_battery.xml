@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="battery_low">裝置電池電量低。</string>
+    <string name="battery_monitoring">監視電池電量的變化</string>
+    <string name="battery_monitoring_notify">電池監視</string>
+    <string name="battery_title">電池監控</string>
+    <string name="charger_connect">充電器已插上。</string>
+    <string name="charger_disconnect">充電器已移除。</string>
+    <string name="charger_status">監控充電器的狀態</string>
+    <string name="charging">正在充電</string>
+    <string name="current_battery_level">"電池電量："</string>
+    <string name="low_battery_status_end">電池已達安全的電量。</string>
+    <string name="not_charging">未充電</string>
+    </resources>

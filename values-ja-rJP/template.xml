@@ -7,5 +7,8 @@
     <string name="TPL_missed_call">[{{SIM}}不在着信]\n送信元: {{From}}</string>
     <string name="TPL_notification">[通知受信]\nアプリ: {{APP}}\nタイトル: {{Title}}\n説明: {{Description}}</string>
     <string name="TPL_send_USSD">[USSD送信]\nリクエスト: {{Request}}\nレスポンス: {{Response}}</string>
-    <string name="TPL_receiving_call">[{{SIM}}Receiving Call]\nFrom: {{From}}</string>
+    <string name="TPL_receiving_call">[{{SIM}}着信中]\n送信元: {{From}}</string>
+    <string name="TPL_system_message">[システム情報]\n{{Message}}</string>
+    <string name="TPL_battery">[バッテリー監視]\nバッテリーレベル: {{BatteryLevel}}%\n{{Message}}</string>
+    <string name="TPL_send_USSD_chat">[USSD送信]\n{{Content}}</string>
 </resources>

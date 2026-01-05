@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="about_content">"开发者： qwe7002\n\n简体广东话译者：ous50\n\n目前版本： "</string>
+    <string name="about_title">关于</string>
+    <string name="agree">同意</string>
+    <string name="browser_not_found">揾唔到浏览器。</string>
+    <string name="check_update">检查更新</string>
+    <string name="decline">收皮啦你</string>
+    <string name="donate">支持下作者啦</string>
+    <string name="privacy_policy">隐私条款</string>
+    <string name="privacy_reminder_information">你哋用 Telegram-SMS，即係信任我哋点样处理你哋嘅个人资料。我哋知呢件事好重要，所以一直好努力咁保护你哋嘅私隐，畀你哋可以自己控制。唔该你哋用之前，睇清楚我哋嘅私隐条款，咁样你哋就可以知道自己有咩权利，同埋点样保障自己嘅私隐。</string>
+    <string name="privacy_reminder_title">隐私权同条款</string>
+    <string name="update_dialog_body">%s 可供更新。</string>
+    <string name="update_dialog_no">迟啲先算</string>
+    <string name="update_dialog_ok">立即更新</string>
+    <string name="update_dialog_title">发现新版本</string>
+    <string name="user_manual">使用手册</string>
+    <string name="visit_page">浏览[隐私条款]网页</string>
+    </resources>

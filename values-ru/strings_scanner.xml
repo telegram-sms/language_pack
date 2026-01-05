@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">Произошла ошибка при расшифровке конфигурации</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Произошла ошибка при получении конфигурации: "</string>
+    <string name="configuration_sent_successfully">"Конфигурация успешно отправлена.\nID: "</string>
+    <string name="error_id_cannot_be_empty">ID не может быть пустым</string>
+    <string name="error_id_must_be_9_characters">ID должен содержать 9 символов</string>
+    <string name="error_password_cannot_be_empty">Пароль не может быть пустым</string>
+    <string name="error_password_must_be_6_characters">Длина пароля должна быть больше 6 символов</string>
+    <string name="getting_configuration">Получение конфигурации</string>
+    <string name="invalid_json_structure">Недопустимая структура JSON</string>
+    <string name="no_camera_permission">Разрешите доступ к камере для сканирования QR-кода.</string>
+    <string name="no_entries_available">Нет доступных записей</string>
+    <string name="please_enter_your_info">Пожалуйста, введите информацию о конфигурации</string>
+    <string name="please_enter_your_password">Пожалуйста, введите ваш пароль</string>
+    <string name="qrcode_notice">Пожалуйста, убедитесь, что этот QR-код в безопасности!\nНе делитесь им с другими.</string>
+    <string name="scan_title">Сканировать QR-код</string>
+    <string name="sending_configuration">Отправка конфигурации</string>
+    <string name="transfer_configuration">Перенести конфигурацию</string>
+    </resources>

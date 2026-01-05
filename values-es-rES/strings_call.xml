@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Incoming_number">Número entrante:</string>
+    <string name="call_notify">Notificar cuando se reciba una llamada</string>
+    <string name="hide_phone_number">Ocultar números de teléfono</string>
+    <string name="missed_call_title">Llamada Perdida</string>
+    <string name="receive_call_title">Recibir llamada</string>
+    <string name="receiving_call_title">Recibiendo llamada</string>
+    </resources>

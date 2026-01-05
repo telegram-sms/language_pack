@@ -8,5 +8,7 @@
     <string name="TPL_notification">[Thông báo]\nỨng dụng: {{APP}}\nTiêu đề: {{Title}}\nNội dung: {{Description}}</string>
     <string name="TPL_send_USSD">[Gửi USSD]\nYêu cầu: {{Request}}\nPhản hồi: {{Response}}</string>
     <string name="TPL_receiving_call">[{{SIM}}Cuộc gọi đến]\nTừ: {{From}}</string>
+    <string name="TPL_system_message">[Thông tin hệ thống]\n{{Message}}</string>
+    <string name="TPL_battery">[Giám sát pin]\nMức pin: {{BatteryLevel}}%\n{{Message}}</string>
+    <string name="TPL_send_USSD_chat">[Gửi USSD]\n{{Content}}</string>
 </resources>
-

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Incoming_number">Số gọi đến:</string>
+    <string name="call_notify">Thông báo cuộc gọi</string>
+    <string name="hide_phone_number">Ẩn số điện thoại</string>
+    <string name="missed_call_title">Cuộc gọi nhỡ</string>
+    <string name="receive_call_title">Nhận cuộc gọi</string>
+    <string name="receiving_call_title">Nhận cuộc gọi</string>
+    </resources>

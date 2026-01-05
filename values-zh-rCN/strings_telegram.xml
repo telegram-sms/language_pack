@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="available_command">可用命令:\n/help - 显示帮助信息\n/getinfo - 获取系统信息\n/log - 输出最后10条日志记录</string>
+    <string name="bot_token">机器人令牌</string>
+    <string name="chat_command">获取聊天命令</string>
+    <string name="chat_command_service_name">聊天命令</string>
+    <string name="chat_id">对话ID</string>
+    <string name="chat_id_or_token_not_config">请先配置机器人令牌和对话ID</string>
+    <string name="connect_wait_message">请耐心等待…</string>
+    <string name="connect_wait_title">连接到服务器…</string>
+    <string name="get_recent_chat_id">获取最近的对话ID</string>
+    <string name="get_recent_chat_message">请发送一些消息到机器人。</string>
+    <string name="get_recent_chat_title">获取最近的对话…</string>
+    <string name="get_spam_sms">/getspamsms - 获取被过滤的垃圾短信</string>
+    <string name="message_thread_id">话题 ID</string>
+    <string name="no_spam_history">没有垃圾短信历史</string>
+    <string name="select_chat">选择对话</string>
+    <string name="send_ussd_command">/sendussd - 发送USSD请求</string>
+    <string name="send_ussd_dual_command">"/sendussd1 - 使用SIM卡插槽1发送USSD请求\n/sendussd2 - 使用SIM卡插槽2发送USSD请求"</string>
+    <string name="sendsms">/sendsms - 发送短信</string>
+    <string name="sendsms_dual">/sendsms1 - 使用SIM卡插槽1发送短信\n/sendsms2 - 使用SIM卡插槽2发送短信</string>
+    <string name="set_api_title">API地址</string>
+    <string name="spam_count_title">"过滤的垃圾短信: "</string>
+    <string name="success_connect">您已成功连接到 Telegram 服务器。</string>
+    <string name="test_and_save">测试并保存</string>
+    <string name="token_not_configure">请先配置机器人令牌。</string>
+    <string name="unable_get_recent">无法获取最近的聊天记录</string>
+    <string name="unknown_command">未知的命令，输入 /help 获取可用命令列表。</string>
+    <string name="using_privacy_mode">仅响应包含机器人用户名的命令</string>
+    </resources>

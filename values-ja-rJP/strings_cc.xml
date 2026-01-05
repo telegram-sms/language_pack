@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="add_cc_service">サービスを追加</string>
+    <string name="cc_service_config_title">コピーする必要があるサービスを選択してください</string>
+    <string name="cc_service_disabled">" (無効)"</string>
+    <string name="cc_service_enabled">" (有効)"</string>
+    <string name="copy_notification_menu">カーボンコピー</string>
+    <string name="edit_cc_service">サービスを編集</string>
+    </resources>

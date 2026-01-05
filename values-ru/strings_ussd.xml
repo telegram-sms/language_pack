@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="send_ussd_title">Отправить USSD</string>
+    <string name="ussd_code_running">USSD код выполняется…</string>
+    </resources>

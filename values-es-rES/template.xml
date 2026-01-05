@@ -7,5 +7,8 @@
     <string name="TPL_missed_call">[{{SIM}}Llamada Perdida]\nDe: {{From}}</string>
     <string name="TPL_notification">[Recibir Notificación]\nApp: {{APP}}\nTítulo: {{Title}}\nDescripción: {{Description}}</string>
     <string name="TPL_send_USSD">[Enviar USSD]\nSolicitud: {{Request}}\nRespuesta: {{Response}}</string>
-    <string name="TPL_receiving_call">[{{SIM}}Receiving Call]\nFrom: {{From}}</string>
+    <string name="TPL_receiving_call">[{{SIM}}Recibiendo Llamada]\nDe: {{From}}</string>
+    <string name="TPL_system_message">[Información del Sistema]\n{{Message}}</string>
+    <string name="TPL_battery">[Monitoreo de Batería]\nNivel de batería: {{BatteryLevel}}%\n{{Message}}</string>
+    <string name="TPL_send_USSD_chat">[Enviar USSD]\n{{Content}}</string>
 </resources>

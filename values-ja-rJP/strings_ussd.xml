@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="send_ussd_title">USSD送信</string>
+    <string name="ussd_code_running">実行中のUSSDコード…</string>
+    </resources>

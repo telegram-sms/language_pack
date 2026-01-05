@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="airplane_mode">現在のデバイスは機内モードです</string>
+    <string name="current_network_connection_status">"ネットワーク状況: "</string>
+    <string name="doh_over_socks5">Socks5を介したDNS over HTTPS要求</string>
+    <string name="no_network">サービスなし</string>
+    <string name="no_service_available">利用可能なサービスがありません。</string>
+    <string name="proxy_dialog_title">Socks5プロキシのセットアップ</string>
+    <string name="proxy_enable">有効化</string>
+    <string name="proxy_host">サーバー</string>
+    <string name="proxy_password">パスワード</string>
+    <string name="proxy_port">ポート</string>
+    <string name="proxy_title">プロキシ</string>
+    <string name="proxy_username">ユーザー名</string>
+    <string name="using_doh">DNS over HTTPS 使う</string>
+    </resources>

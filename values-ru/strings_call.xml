@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Incoming_number">Входящий номер:</string>
+    <string name="call_notify">Уведомлять при получении звонка</string>
+    <string name="hide_phone_number">Скрыть номера телефонов</string>
+    <string name="missed_call_title">Пропущенный звонок</string>
+    <string name="receive_call_title">Получить звонок</string>
+    <string name="receiving_call_title">Входящий звонок</string>
+    </resources>

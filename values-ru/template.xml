@@ -7,5 +7,8 @@
     <string name="TPL_missed_call">[{{SIM}}Пропущенный звонок]\nОт: {{From}}</string>
     <string name="TPL_notification">[Получить уведомление]\nПриложение: {{APP}}\nЗаголовок: {{Title}}\nОписание: {{Description}}</string>
     <string name="TPL_send_USSD">[Отправить USSD]\nЗапрос: {{Request}}\nОтвет: {{Response}}</string>
-    <string name="TPL_receiving_call">[{{SIM}}Receiving Call]\nFrom: {{From}}</string>
+    <string name="TPL_receiving_call">[{{SIM}}Входящий звонок]\nОт: {{From}}</string>
+    <string name="TPL_system_message">[Системная информация]\n{{Message}}</string>
+    <string name="TPL_battery">[Мониторинг батареи]\nУровень батареи: {{BatteryLevel}}%\n{{Message}}</string>
+    <string name="TPL_send_USSD_chat">[Отправить USSD]\n{{Content}}</string>
 </resources>

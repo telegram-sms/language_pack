@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">解密配置出错</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"获取配置出错: "</string>
+    <string name="configuration_sent_successfully">"配置发送成功。\nID: "</string>
+    <string name="error_id_cannot_be_empty">ID 唔可以空住</string>
+    <string name="error_id_must_be_9_characters">ID 要系9个字符</string>
+    <string name="error_password_cannot_be_empty">密码唔可以空住</string>
+    <string name="error_password_must_be_6_characters">密码长度要多过6个字符</string>
+    <string name="getting_configuration">获取紧配置</string>
+    <string name="invalid_json_structure">无效嘅JSON结构</string>
+    <string name="no_camera_permission">要畀返个相机权限我哋先可以扫二维码㗎。</string>
+    <string name="no_entries_available">冇可用嘅条目</string>
+    <string name="please_enter_your_info">请输入配置信息</string>
+    <string name="please_enter_your_password">请输入密码</string>
+    <string name="qrcode_notice">唔该你好好保管呢个 QR Code！\n千祈唔好畀其他人睇到！</string>
+    <string name="scan_title">扫描二维码</string>
+    <string name="sending_configuration">发送紧配置</string>
+    <string name="transfer_configuration">传输设置</string>
+    </resources>

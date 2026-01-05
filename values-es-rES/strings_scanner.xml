@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">Ocurrió un error al descifrar la configuración</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"Ocurrió un error al obtener la configuración: "</string>
+    <string name="configuration_sent_successfully">"Configuración enviada con éxito.\nID: "</string>
+    <string name="error_id_cannot_be_empty">El ID no puede estar vacío</string>
+    <string name="error_id_must_be_9_characters">El ID debe tener 9 caracteres</string>
+    <string name="error_password_cannot_be_empty">La contraseña no puede estar vacía</string>
+    <string name="error_password_must_be_6_characters">La longitud de la contraseña debe ser mayor a 6 caracteres</string>
+    <string name="getting_configuration">Obteniendo configuración</string>
+    <string name="invalid_json_structure">Estructura JSON inválida</string>
+    <string name="no_camera_permission">Por favor, permite el acceso a la cámara para escanear el código QR.</string>
+    <string name="no_entries_available">No hay entradas disponibles</string>
+    <string name="please_enter_your_info">Por favor, ingrese su información de configuración</string>
+    <string name="please_enter_your_password">Por favor, ingrese su contraseña</string>
+    <string name="qrcode_notice">"¡Mantén este código QR seguro!\nPor favor, no lo compartas con nadie."</string>
+    <string name="scan_title">Escanear código QR</string>
+    <string name="sending_configuration">Enviando configuración</string>
+    <string name="transfer_configuration">Transferir ajustes</string>
+    </resources>

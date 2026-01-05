@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="an_error_occurred_while_decrypting_the_configuration">設定の復号中にエラーが発生しました</string>
+    <string name="an_error_occurred_while_getting_the_configuration">"設定の取得中にエラーが発生しました: "</string>
+    <string name="configuration_sent_successfully">"設定が正常に送信されました。\nID: "</string>
+    <string name="error_id_cannot_be_empty">IDは空にできません</string>
+    <string name="error_id_must_be_9_characters">IDは9文字でなければなりません</string>
+    <string name="error_password_cannot_be_empty">パスワードは空にできません</string>
+    <string name="error_password_must_be_6_characters">パスワードの長さは6文字以上でなければなりません</string>
+    <string name="getting_configuration">設定を取得中</string>
+    <string name="invalid_json_structure">無効なJSON構造</string>
+    <string name="no_camera_permission">QRコードスキャン用のカメラアクセスを許可してください。</string>
+    <string name="no_entries_available">利用可能なエントリがありません</string>
+    <string name="please_enter_your_info">設定情報を入力してください</string>
+    <string name="please_enter_your_password">パスワードを入力してください</string>
+    <string name="qrcode_notice">このQRコードを安全に保管してください！\n他の人と共有しないでください。</string>
+    <string name="scan_title">QRコードをスキャン</string>
+    <string name="sending_configuration">設定を送信中</string>
+    <string name="transfer_configuration">転送構成</string>
+    </resources>

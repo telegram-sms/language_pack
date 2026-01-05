@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="airplane_mode">El dispositivo está en modo avión</string>
+    <string name="current_network_connection_status">"Estado de la red: "</string>
+    <string name="doh_over_socks5">DNS sobre solicitudes HTTPS sobre Socks5</string>
+    <string name="no_network">Sin servicio</string>
+    <string name="no_service_available">No hay servicio disponible.</string>
+    <string name="proxy_dialog_title">Configuración de proxy Socks5</string>
+    <string name="proxy_enable">Habilitar</string>
+    <string name="proxy_host">Host</string>
+    <string name="proxy_password">Contraseña</string>
+    <string name="proxy_port">Puerto</string>
+    <string name="proxy_title">Proxy</string>
+    <string name="proxy_username">Nombre de usuario</string>
+    <string name="using_doh">Usar DNS sobre HTTPS</string>
+    </resources>

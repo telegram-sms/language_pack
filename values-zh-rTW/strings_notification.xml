@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Notification_Listener_title">通知存取</string>
+    <string name="app_name_title">"應用程式名稱："</string>
+    <string name="receive_notification_title">接收通知</string>
+    <string name="set_notification_listener">通知監聽器</string>
+    <string name="title">"標題："</string>
+    </resources>

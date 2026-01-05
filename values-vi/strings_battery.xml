@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="battery_low">Pin thiết bị yếu.</string>
+    <string name="battery_monitoring">Giám sát thay đổi trạng thái pin</string>
+    <string name="battery_monitoring_notify">Giám sát pin</string>
+    <string name="battery_title">Giám sát pin</string>
+    <string name="charger_connect">Đã kết nối bộ sạc AC.</string>
+    <string name="charger_disconnect">Đã ngắt kết nối bộ sạc AC.</string>
+    <string name="charger_status">Giám sát trạng thái bộ sạc</string>
+    <string name="charging">Đang sạc</string>
+    <string name="current_battery_level">"Mức pin: "</string>
+    <string name="low_battery_status_end">Trạng thái pin yếu đã kết thúc.</string>
+    <string name="not_charging">Không sạc</string>
+    </resources>

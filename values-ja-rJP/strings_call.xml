@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="Incoming_number">着信番号:</string>
+    <string name="call_notify">着信時に通知</string>
+    <string name="hide_phone_number">電話番号を非表示</string>
+    <string name="missed_call_title">不在着信</string>
+    <string name="receive_call_title">着信受信</string>
+    <string name="receiving_call_title">着信中</string>
+    </resources>
