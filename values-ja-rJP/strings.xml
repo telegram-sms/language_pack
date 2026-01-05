@@ -109,8 +109,11 @@
     <string name="template_title">テンプレート</string>
     <string name="reset_button">リセット</string>
     <string name="send_sms_title">SMS送信</string>
+    <string name="receive_call_title">着信受信</string>
     <string name="missed_call_title">不在着信</string>
     <string name="receive_sms_title">SMS受信</string>
+    <string name="receive_mms_title">MMS受信</string>
+    <string name="receive_notification_title">通知受信</string>
     <string name="send_ussd_title">USSD送信</string>
     <string name="battery_title">バッテリー監視</string>
     <string name="edit_cc_service">サービスを編集</string>
@@ -136,6 +139,14 @@
     <string name="this_is_a_test_message">これはテストメッセージです。</string>
     <string name="no_service_available">利用可能なサービスがありません。</string>
     <string name="cc_service_config_title">コピーする必要があるサービスを選択してください</string>
+    <string name="call_notify">着信時に通知</string>
+    <string name="receiving_call_title">着信中</string>
+    <string name="Incoming_number">着信番号:</string>
+    <string name="app_name_title">アプリ名:</string>
+    <string name="title">タイトル:</string>
+    <string name="browser_not_found">ブラウザが見つかりません。</string>
+    <string name="set_api_title">APIアドレス</string>
+    <string name="hide_phone_number">電話番号を非表示</string>
     <!-- SMS Management -->
     <string name="listsms_command">/listsms - SMSメッセージを一覧表示</string>
     <string name="listsms_inbox_command">/listsms inbox - 受信トレイを一覧表示\n/listsms sent - 送信済みメッセージを一覧表示</string>

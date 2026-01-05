@@ -109,8 +109,11 @@
     <string name="template_title">Шаблон</string>
     <string name="reset_button">Сброс</string>
     <string name="send_sms_title">Отправить SMS</string>
+    <string name="receive_call_title">Получить звонок</string>
     <string name="missed_call_title">Пропущенный звонок</string>
     <string name="receive_sms_title">Получить SMS</string>
+    <string name="receive_mms_title">Получить MMS</string>
+    <string name="receive_notification_title">Получить уведомление</string>
     <string name="send_ussd_title">Отправить USSD</string>
     <string name="battery_title">Мониторинг батареи</string>
     <string name="edit_cc_service">Редактировать службу Cc</string>
@@ -136,4 +139,32 @@
     <string name="this_is_a_test_message">Это тестовое сообщение.</string>
     <string name="no_service_available">Нет доступных сервисов.</string>
     <string name="cc_service_config_title">Пожалуйста, выберите сервис, который нужно скопировать</string>
+    <string name="call_notify">Уведомлять при получении звонка</string>
+    <string name="receiving_call_title">Входящий звонок</string>
+    <string name="Incoming_number">Входящий номер:</string>
+    <string name="title">Заголовок:</string>
+    <string name="system_message_head">[Системная информация]</string>
+    <string name="browser_not_found">Браузер не найден.</string>
+    <string name="set_api_title">Адрес API</string>
+    <string name="hide_phone_number">Скрыть номера телефонов</string>
+    <!-- SMS Management -->
+    <string name="listsms_command">/listsms - Список SMS-сообщений</string>
+    <string name="listsms_inbox_command">/listsms inbox - Список входящих сообщений\n/listsms sent - Список отправленных сообщений</string>
+    <string name="sms_list_header">📱 Список SMS (%1$s)</string>
+    <string name="sms_list_empty">SMS-сообщения не найдены.</string>
+    <string name="sms_detail_header">📩 Детали SMS</string>
+    <string name="sms_from">От:</string>
+    <string name="sms_to">Кому:</string>
+    <string name="sms_date">Дата:</string>
+    <string name="sms_content">Содержание:</string>
+    <string name="sms_type_inbox">Входящие</string>
+    <string name="sms_type_sent">Отправленные</string>
+    <string name="sms_type_all">Все</string>
+    <string name="sms_not_found">SMS не найдено.</string>
+    <string name="sms_deleted">SMS успешно удалено.</string>
+    <string name="sms_delete_failed">Не удалось удалить SMS.</string>
+    <string name="sms_delete_confirm">Вы уверены, что хотите удалить это SMS?</string>
+    <string name="not_default_sms_app">Для этой функции требуется, чтобы приложение было установлено в качестве приложения SMS по умолчанию.</string>
+    <string name="prev_page">Предыдущая</string>
+    <string name="next_page">Следующая</string>
 </resources>

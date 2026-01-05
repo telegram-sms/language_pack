@@ -110,8 +110,11 @@
     <string name="template_title">模板</string>
     <string name="reset_button">重置</string>
     <string name="send_sms_title">發送短信</string>
+    <string name="receive_call_title">接收來電</string>
     <string name="missed_call_title">未接來電</string>
     <string name="receive_sms_title">接收短信</string>
+    <string name="receive_mms_title">接收彩信</string>
+    <string name="receive_notification_title">接收通知</string>
     <string name="send_ussd_title">發送 USSD</string>
     <string name="battery_title">電池監控</string>
     <string name="edit_cc_service">編輯服務</string>
@@ -138,7 +141,13 @@
     <string name="no_service_available">沒有可用的服務。</string>
     <string name="cc_service_config_title">請選擇需要複製的服務</string>
     <string name="call_notify">提醒來電</string>
-    <string name="receiving_call_title">Receiving Call</string>
+    <string name="receiving_call_title">接收來電</string>
+    <string name="Incoming_number">來電號碼:</string>
+    <string name="app_name_title">應用程式名稱:</string>
+    <string name="title">標題:</string>
+    <string name="browser_not_found">找不到瀏覽器。</string>
+    <string name="set_api_title">API位址</string>
+    <string name="hide_phone_number">隱藏電話號碼</string>
     <!-- SMS Management -->
     <string name="listsms_command">/listsms - 列出簡訊記錄</string>
     <string name="listsms_inbox_command">/listsms inbox - 列出收件匣\n/listsms sent - 列出已發送簡訊</string>
