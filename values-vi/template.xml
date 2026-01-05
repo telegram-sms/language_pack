@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TPL_received_sms">[{{SIM}}Nhận SMS]\nTừ: {{From}}\nNội dung: {{Content}}</string>
+    <string name="TPL_received_mms">[{{SIM}}Nhận MMS]\nTừ: {{From}}\nChủ đề: {{Subject}}\nNội dung: {{Content}}</string>
+    <string name="TPL_send_sms">[{{SIM}}Gửi SMS]\nĐến: {{To}}\nNội dung: {{Content}}</string>
+    <string name="TPL_send_sms_chat">[{{SIM}}Gửi SMS]\n{{Content}}</string>
+    <string name="TPL_missed_call">[{{SIM}}Cuộc gọi nhỡ]\nTừ: {{From}}</string>
+    <string name="TPL_notification">[Thông báo]\nỨng dụng: {{APP}}\nTiêu đề: {{Title}}\nNội dung: {{Description}}</string>
+    <string name="TPL_send_USSD">[Gửi USSD]\nYêu cầu: {{Request}}\nPhản hồi: {{Response}}</string>
+    <string name="TPL_receiving_call">[{{SIM}}Cuộc gọi đến]\nTừ: {{From}}</string>
+</resources>
+

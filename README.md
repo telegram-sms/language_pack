@@ -16,3 +16,5 @@ I would like to thank the following people for their hard work to localise this 
   - [@David Alonso](https://github.com/lpdavidgc)
 - Cantonese (Simp./Trad.) (Remember: these translations are only available when the locale is set/fallbacked to 粵語（香港）or 粤语（中华人民共和国） )
   - [@ous50](https://github.com/ous50)
+- Vietnamese
+  - Gemini 3 Pro
