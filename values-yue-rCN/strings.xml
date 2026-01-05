@@ -2,6 +2,7 @@
 <resources>
     <string name="Lang">yue_cn</string>
     <string name="time_format">yyyy-MM-dd HH:mm:ss z</string>
+    <string name="system_message_head">[系统信息]</string>
     <string name="success_connect">成功连接到 Telegram 嘅服务器。</string>
     <string name="connect_wait_title">驳紧部服务器……</string>
     <string name="connect_wait_message">等等先……</string>
