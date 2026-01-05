@@ -62,7 +62,7 @@
     <string name="scan_title">掃描二維條碼</string>
     <string name="no_camera_permission">請授予相機權限以進行二維條碼的掃描。</string>
     <string name="app_list">應用程式列表</string>
-    <string name="receive_notification_title">[收到通知]</string>
+    <string name="receive_notification_title">收到通知</string>
     <string name="app_name_title">"應用程式名稱： "</string>
     <string name="title">"標題： "</string>
     <string name="Notification_Listener_title">通知存取</string>
