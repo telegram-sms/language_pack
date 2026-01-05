@@ -102,7 +102,7 @@
     <string name="send_button">送信</string>
     <string name="check_update">更新を確認</string>
     <string name="update_dialog_title">新しいバージョンが見つかりました</string>
-    <string name="update_dialog_body">%s が更新可能です。\n\n変更ログ:\n\n%s</string>
+    <string name="update_dialog_body">%s が更新可能です。</string>
     <string name="update_dialog_ok">今すぐ更新</string>
     <string name="update_dialog_no">後で通知</string>
     <string name="unable_to_obtain_information">メッセージを取得できません</string>

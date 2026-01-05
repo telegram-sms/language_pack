@@ -102,7 +102,7 @@
     <string name="visit_page">Посетить страницу условий конфиденциальности</string>
     <string name="check_update">Проверить обновления</string>
     <string name="update_dialog_title">Найдена новая версия</string>
-    <string name="update_dialog_body">%s доступна для обновления. \n\nЖурнал изменений:\n\n%s</string>
+    <string name="update_dialog_body">%s доступна для обновления.</string>
     <string name="update_dialog_ok">Обновить сейчас</string>
     <string name="update_dialog_no">Напомнить позже</string>
     <string name="unable_to_obtain_information">Не удалось получить сообщение</string>
@@ -142,8 +142,6 @@
     <string name="call_notify">Уведомлять при получении звонка</string>
     <string name="receiving_call_title">Входящий звонок</string>
     <string name="Incoming_number">Входящий номер:</string>
-    <string name="title">Заголовок:</string>
-    <string name="system_message_head">[Системная информация]</string>
     <string name="browser_not_found">Браузер не найден.</string>
     <string name="set_api_title">Адрес API</string>
     <string name="hide_phone_number">Скрыть номера телефонов</string>

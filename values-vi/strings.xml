@@ -102,7 +102,7 @@
     <string name="send_button">Gửi</string>
     <string name="check_update">Kiểm tra cập nhật</string>
     <string name="update_dialog_title">Phát hiện phiên bản mới</string>
-    <string name="update_dialog_body">%s có sẵn để cập nhật.\n\nNhật ký thay đổi:\n\n%s</string>
+    <string name="update_dialog_body">%s có sẵn để cập nhật.</string>
     <string name="update_dialog_ok">Cập nhật ngay</string>
     <string name="update_dialog_no">Nhắc lại sau</string>
     <string name="unable_to_obtain_information">Không thể lấy thông tin</string>

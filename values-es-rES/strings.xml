@@ -101,7 +101,7 @@
     <string name="send_button">enviar</string>
     <string name="check_update">Buscar actualizaciones</string>
     <string name="update_dialog_title">Nueva versión encontrada</string>
-    <string name="update_dialog_body">%s está disponible para actualizar. \n\nRegistro de cambios:\n\n%s</string>
+    <string name="update_dialog_body">%s está disponible para actualizar.</string>
     <string name="update_dialog_ok">Actualizar ahora</string>
     <string name="update_dialog_no">Hablar contigo más tarde</string>
     <string name="unable_to_obtain_information">No se pudo obtener el mensaje</string>
@@ -141,8 +141,6 @@
     <string name="call_notify">Notificar cuando se reciba una llamada</string>
     <string name="receiving_call_title">Recibiendo llamada</string>
     <string name="Incoming_number">Número entrante:</string>
-    <string name="title">Título:</string>
-    <string name="system_message_head">[Información del sistema]</string>
     <string name="browser_not_found">Navegador no encontrado.</string>
     <string name="set_api_title">Dirección API</string>
     <string name="hide_phone_number">Ocultar números de teléfono</string>

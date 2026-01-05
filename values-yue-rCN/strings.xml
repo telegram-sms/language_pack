@@ -60,7 +60,6 @@
     <string name="scan_title">扫描二维码</string>
     <string name="no_camera_permission">要畀返个相机权限我哋先可以扫二维码㗎。</string>
     <string name="app_list">App 列表</string>
-    <string name="receive_notification_title">[新通知]</string>
     <string name="app_name_title">"App 名： "</string>
     <string name="title">"标题： "</string>
     <string name="Notification_Listener_title">通知监听</string>
@@ -101,7 +100,7 @@
     <string name="send_button">发送</string>
     <string name="check_update">检查更新</string>
     <string name="update_dialog_title">发现新版本</string>
-    <string name="update_dialog_body">%s 可供更新。\n\n更改日志:\n\n%s</string>
+    <string name="update_dialog_body">%s 可供更新。</string>
     <string name="update_dialog_ok">立即更新</string>
     <string name="update_dialog_no">迟啲先算</string>
     <string name="unable_to_obtain_information">无法获取信息</string>
@@ -141,8 +140,6 @@
     <string name="call_notify">来电时通知</string>
     <string name="receiving_call_title">收到来电</string>
     <string name="Incoming_number">来电号码:</string>
-    <string name="title">标题:</string>
-    <string name="system_message_head">[系统讯息]</string>
     <string name="browser_not_found">揾唔到浏览器。</string>
     <string name="set_api_title">API 地址</string>
     <string name="hide_phone_number">隐藏电话号码</string>
