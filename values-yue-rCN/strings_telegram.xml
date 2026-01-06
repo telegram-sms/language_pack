@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="available_command">可用命令：\n/help - 显示帮助信息\n/getinfo - 拿系统信息\n/log - 输出最后10条日志记录</string>
+<resources>
     <string name="bot_token">机器人令牌</string>
     <string name="chat_command">拿聊天命令</string>
     <string name="chat_command_service_name">聊天指令</string>
@@ -14,10 +14,6 @@
     <string name="message_thread_id">Topic ID</string>
     <string name="no_spam_history">冇垃圾短信记录</string>
     <string name="select_chat">选择会话</string>
-    <string name="send_ussd_command">/sendussd - 发送 USSD 请求</string>
-    <string name="send_ussd_dual_command">"/sendussd1 - 使用 SIM 咭插槽 1 发送 USSD 请求\n/sendussd2 - 使用 SIM 咭插槽 2 发送 USSD 请求"</string>
-    <string name="sendsms">/sendsms - 发短信</string>
-    <string name="sendsms_dual">/sendsms1 - 使用 SIM 咭 1 发送短信\n/sendsms2 - 使用 SIM 咭 2 发送短信</string>
     <string name="set_api_title">API 地址</string>
     <string name="set_api_success">API 地址设置成功。</string>
     <string name="set_api_failed">API 地址设置失败。</string>

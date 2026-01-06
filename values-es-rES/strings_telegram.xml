@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="available_command">"Comandos disponibles:\n/help - Mostrar información de ayuda\n/getinfo - Obtener información del sistema\n/log - Mostrar los últimos 10 registros"</string>
+<resources>
     <string name="bot_token">Token del Bot</string>
     <string name="chat_command">Respuesta al comando de chat</string>
     <string name="chat_command_service_name">"Comando de chat "</string>
@@ -14,10 +14,6 @@
     <string name="message_thread_id">Topic ID</string>
     <string name="no_spam_history">Sin historial de spam</string>
     <string name="select_chat">Seleccionar chat</string>
-    <string name="send_ussd_command">/sendussd - Enviar solicitud USSD</string>
-    <string name="send_ussd_dual_command">"/sendussd1 - Enviar solicitud USSD usando la SIM 1\n/sendussd2 - Enviar solicitud USSD usando la SIM 2"</string>
-    <string name="sendsms">/sendsms - Enviar SMS</string>
-    <string name="sendsms_dual">"/sendsms1 - Enviar SMS usando la SIM 1\n/sendsms2 - Enviar SMS usando la SIM 2"</string>
     <string name="set_api_title">Dirección API</string>
     <string name="set_api_success">Dirección API configurada correctamente.</string>
     <string name="set_api_failed">Error al configurar la dirección API.</string>

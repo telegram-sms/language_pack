@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="available_command">可用嘅指令：\n/help - 顯示幫助資訊\n/getinfo - 取得系統資訊\n/log - 輸出最後10條日誌記錄</string>
+<resources>
     <string name="bot_token">機器人令牌</string>
     <string name="chat_command">取得聊天指令</string>
     <string name="chat_command_service_name">聊天指令</string>
@@ -14,10 +14,6 @@
     <string name="message_thread_id">Topic ID</string>
     <string name="no_spam_history">冇垃圾短訊記錄</string>
     <string name="select_chat">選擇會話</string>
-    <string name="send_ussd_command">/sendussd - 傳送 USSD 請求</string>
-    <string name="send_ussd_dual_command">"/sendussd1 - 使用 SIM 咭插槽 1 傳送 USSD 請求\n/sendussd2 - 使用 SIM 咭插槽 2 傳送 USSD 請求"</string>
-    <string name="sendsms">/sendsms - 發短訊</string>
-    <string name="sendsms_dual">/sendsms1 - 使用 SIM 咭插槽 1 傳送短訊\n/sendsms2 - 使用 SIM 咭插槽 2 傳送短訊</string>
     <string name="set_api_title">API 地址</string>
     <string name="set_api_success">API 地址設定成功。</string>
     <string name="set_api_failed">API 地址設定失敗。</string>

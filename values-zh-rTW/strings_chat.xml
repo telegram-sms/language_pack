@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="available_command">可用指令：\n/help - 顯示說明\n/getinfo - 取得系統資訊\n/log - 輸出最後 10 條日誌記錄</string>
+    <string name="sendsms">/sendsms - 傳送簡訊</string>
+    <string name="sendsms_dual">/sendsms [1|2] - 傳送簡訊（指定 SIM 卡）</string>
+    <string name="send_ussd_command">/sendussd - 傳送 USSD 請求</string>
+    <string name="send_ussd_dual_command">/sendussd [1|2] - 傳送 USSD 請求（指定 SIM 卡）</string>
+    <!-- List SMS commands -->
+    <string name="listsms_command">/listsms - 列出簡訊</string>
+    <string name="listsms_inbox_command">/listsms inbox - 列出收件箱訊息\n/listsms sent - 列出已傳送訊息</string>
+</resources>
+

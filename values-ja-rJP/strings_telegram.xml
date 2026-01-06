@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="available_command">利用可能なコマンド:\n/help - ヘルプ情報を表示する\n/getinfo - システム情報の取得\n/log - 最後の10件の履歴を出力します</string>
+<resources>
     <string name="bot_token">Botトークン</string>
     <string name="chat_command">チャットコマンドを取得する</string>
     <string name="chat_command_service_name">チャットコマンド</string>
@@ -14,10 +14,6 @@
     <string name="message_thread_id">Topic ID</string>
     <string name="no_spam_history">スパム履歴なし</string>
     <string name="select_chat">トークを選択</string>
-    <string name="send_ussd_command">/sendussd - USSDリクエストを送信</string>
-    <string name="send_ussd_dual_command">"/sendussd1 - SIMスロット1を使用してUSSDリクエストを送信します\n/sendussd2 - SIMスロット2を使用してUSSDリクエストを送信する"</string>
-    <string name="sendsms">/sendsms - SMSの送信</string>
-    <string name="sendsms_dual">/sendsms1 - 1番目のカードスロットを使用したSMSの送信\n/sendsms2 - 2番目のカードスロットを使用したSMSの送信</string>
     <string name="set_api_title">APIアドレス</string>
     <string name="set_api_success">APIアドレスの設定に成功しました。</string>
     <string name="set_api_failed">APIアドレスの設定に失敗しました。</string>

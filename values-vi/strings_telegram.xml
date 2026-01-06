@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="available_command">Các lệnh khả dụng:\n/help - Hiển thị thông tin trợ giúp\n/getinfo - Lấy thông tin hệ thống\n/log - Xuất 10 bản ghi nhật ký cuối cùng</string>
+<resources>
     <string name="bot_token">Bot Token</string>
     <string name="chat_command">Lấy lệnh trò chuyện</string>
     <string name="chat_command_service_name">Lệnh trò chuyện</string>
@@ -14,10 +14,6 @@
     <string name="message_thread_id">Topic ID</string>
     <string name="no_spam_history">Không có lịch sử tin nhắn rác</string>
     <string name="select_chat">Chọn cuộc trò chuyện</string>
-    <string name="send_ussd_command">/sendussd - Gửi yêu cầu USSD</string>
-    <string name="send_ussd_dual_command">"/sendussd1 - Gửi yêu cầu USSD bằng SIM 1\n/sendussd2 - Gửi yêu cầu USSD bằng SIM 2"</string>
-    <string name="sendsms">/sendsms - Gửi tin nhắn SMS</string>
-    <string name="sendsms_dual">/sendsms1 - Gửi SMS bằng SIM 1\n/sendsms2 - Gửi SMS bằng SIM 2</string>
     <string name="set_api_title">Địa chỉ API</string>
     <string name="set_api_success">Đặt địa chỉ API thành công.</string>
     <string name="set_api_failed">Không thể đặt địa chỉ API.</string>

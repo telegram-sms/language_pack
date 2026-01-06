@@ -38,4 +38,10 @@
     <string name="unable_to_obtain_information">无法获取信息</string>
     <string name="using_verification_code_identification">验证码自动提取(Alpha)</string>
     <string name="verification_code">"（验证码）"</string>
+    <string name="enter_reply_number">请输入收件人号码。</string>
+    <string name="enter_reply_content">请输入要发送的消息内容。</string>
+    <string name="please_reply_to_continue">请回复前一条消息以继续。</string>
+    <string name="select_sim_card">请选择SIM卡：</string>
+    <string name="sim_card_1">SIM卡1</string>
+    <string name="sim_card_2">SIM卡2</string>
     </resources>

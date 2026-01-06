@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="available_command">"Comandos disponibles:\n/help - Mostrar información de ayuda\n/getinfo - Obtener información del sistema\n/log - Mostrar los últimos 10 registros"</string>
+    <string name="sendsms">/sendsms - Enviar SMS</string>
+    <string name="sendsms_dual">/sendsms [1|2] - Enviar SMS (especificar tarjeta SIM)</string>
+    <string name="send_ussd_command">/sendussd - Enviar solicitud USSD</string>
+    <string name="send_ussd_dual_command">/sendussd [1|2] - Enviar solicitud USSD (especificar tarjeta SIM)</string>
+    <!-- List SMS commands -->
+    <string name="listsms_command">/listsms - Listar mensajes SMS</string>
+    <string name="listsms_inbox_command">/listsms inbox - Listar mensajes de la bandeja de entrada\n/listsms sent - Listar mensajes enviados</string>
+</resources>
+
