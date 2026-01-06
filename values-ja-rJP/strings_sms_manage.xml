@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="sms_list_header">📱 SMSリスト (%1$s)</string>
+    <string name="sms_list_empty">SMSメッセージが見つかりません。</string>
+    <string name="sms_detail_header">📩 SMS詳細</string>
+    <string name="sms_from">送信者:</string>
+    <string name="sms_to">宛先:</string>
+    <string name="sms_date">日付:</string>
+    <string name="sms_content">内容:</string>
+    <string name="sms_type_inbox">受信トレイ</string>
+    <string name="sms_type_sent">送信済み</string>
+    <string name="sms_type_all">すべて</string>
+    <string name="sms_not_found">SMSが見つかりません。</string>
+    <string name="sms_deleted">SMSが正常に削除されました。</string>
+    <string name="sms_delete_failed">SMSの削除に失敗しました。</string>
+    <string name="sms_delete_confirm">このSMSを削除してもよろしいですか？</string>
+    <string name="not_default_sms_app">この機能にはアプリをデフォルトのSMSアプリに設定する必要があります。</string>
+    <string name="prev_page">前へ</string>
+    <string name="next_page">次へ</string>
+</resources>
+

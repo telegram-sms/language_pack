@@ -9,11 +9,7 @@
     <string name="connect_wait_title">Подключение к серверу Telegram…</string>
     <string name="get_recent_chat_id">Получить последний ID чата</string>
     <string name="get_recent_chat_message">Пожалуйста, отправьте любое сообщение боту.</string>
-    <string name="get_recent_chat_title">Получение последних чатов…</string>
-    <string name="get_spam_sms">/getspamsms - Получить отфильтрованные спам-сообщения</string>
-    <string name="message_thread_id">ID тема</string>
-    <string name="no_spam_history">Нет истории спама</string>
-    <string name="select_chat">Выбрать чат</string>
+    <string name="get_recent_chat_title">Получение последних чатов…</string>    <string name="message_thread_id">ID тема</string>    <string name="select_chat">Выбрать чат</string>
     <string name="set_api_title">Адрес API</string>
     <string name="set_api_success">Адрес API успешно установлен.</string>
     <string name="set_api_failed">Не удалось установить адрес API.</string>

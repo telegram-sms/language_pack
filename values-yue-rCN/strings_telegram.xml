@@ -9,11 +9,7 @@
     <string name="connect_wait_title">驳紧部服务器……</string>
     <string name="get_recent_chat_id">取得最近嘅会话 ID</string>
     <string name="get_recent_chat_message">发啲嘢畀机器人。</string>
-    <string name="get_recent_chat_title">取得最近嘅会话……</string>
-    <string name="get_spam_sms">/getspamsms - 取得被过滤咗嘅垃圾短信</string>
-    <string name="message_thread_id">Topic ID</string>
-    <string name="no_spam_history">冇垃圾短信记录</string>
-    <string name="select_chat">选择会话</string>
+    <string name="get_recent_chat_title">取得最近嘅会话……</string>    <string name="message_thread_id">Topic ID</string>    <string name="select_chat">选择会话</string>
     <string name="set_api_title">API 地址</string>
     <string name="set_api_success">API 地址设置成功。</string>
     <string name="set_api_failed">API 地址设置失败。</string>

@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="display_sim_card_alias_in_dual_card_mode">顯示SIM咭別名</string>
-    <string name="enter_content">請輸入訊息內容。</string>
-    <string name="enter_number">請輸入對方嘅冧巴。</string>
-    <string name="failed_resend">重新傳送</string>
+<resources><string name="failed_resend">重新傳送</string>
     <string name="keywords">關鍵詞</string>
     <string name="listsms_command">/listsms - 列出短訊記錄</string>
     <string name="listsms_inbox_command">/listsms inbox - 列出收件匣\n/listsms sent - 列出已發送短訊</string>
-    <string name="network_error_falls_back_to_sms">發生網絡錯誤嗰陣時轉寄短訊到信任嘅電話冧巴</string>
-    <string name="next_page">下一頁</string>
-<string name="not_default_sms_app">呢個功能需要將應用程式設為預設短訊應用程式。</string>
-    <string name="prev_page">上一頁</string>
-    <string name="receive_mms_title">收到彩信</string>
+    <string name="network_error_falls_back_to_sms">發生網絡錯誤嗰陣時轉寄短訊到信任嘅電話冧巴</string>    <string name="receive_mms_title">收到彩信</string>
     <string name="receive_sms_title">收到短訊</string>
-    <string name="send_sms_title">發送短訊</string>
-    <string name="sms_content">內容:</string>
-    <string name="sms_date">日期:</string>
-    <string name="sms_delete_confirm">確定要刪除呢則短訊？</string>
-    <string name="sms_delete_failed">刪除短訊失敗。</string>
-    <string name="sms_deleted">短訊已經刪咗。</string>
-    <string name="sms_detail_header">📩 短訊詳情</string>
-    <string name="sms_from">寄件人:</string>
-    <string name="sms_list_empty">揾唔到短訊。</string>
-    <string name="sms_list_header">📱 短訊列表 (%1$s)</string>
-    <string name="sms_not_found">揾唔到短訊。</string>
-    <string name="sms_to">收件人:</string>
-    <string name="sms_type_all">全部</string>
-    <string name="sms_type_inbox">收件匣</string>
-    <string name="sms_type_sent">已發送</string>
-    <string name="spam_keyword_add_title">新增關鍵字</string>
+    <string name="send_sms_title">發送短訊</string>    <string name="spam_keyword_add_title">新增關鍵字</string>
     <string name="spam_keyword_edit_title">修改關鍵字</string>
     <string name="spam_sms_keyword_title">短訊黑名單</string>
     <string name="template_title">範本</string>
@@ -38,4 +16,7 @@
     <string name="unable_to_obtain_information">無法獲取信息</string>
     <string name="using_verification_code_identification">自動提取驗證碼（Alpha）</string>
     <string name="verification_code">" (驗證碼)"</string>
-    </resources>
+        <string name="please_reply_to_continue">請回覆前一條訊息以繼續。</string>
+    <string name="enter_reply_content">請回覆要發送嘅訊息內容。</string>
+    <string name="enter_reply_number">請回覆收件人號碼。</string>
+</resources>

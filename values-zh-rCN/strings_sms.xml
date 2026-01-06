@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="display_sim_card_alias_in_dual_card_mode">显示SIM卡别名</string>
-    <string name="enter_content">请输入要发送的消息的内容。</string>
-    <string name="enter_number">请输入您要发送的号码。</string>
-    <string name="failed_resend">重新发送</string>
+<resources>    <string name="failed_resend">重新发送</string>
     <string name="keywords">关键词</string>
     <string name="listsms_command">/listsms - 列出短信记录</string>
     <string name="listsms_inbox_command">/listsms inbox - 列出收件箱\n/listsms sent - 列出已发送短信</string>
-    <string name="network_error_falls_back_to_sms">当网络故障时使用短信转发</string>
-    <string name="next_page">下一页</string>
-<string name="not_default_sms_app">此功能需要将应用设为默认短信应用。</string>
-    <string name="prev_page">上一页</string>
-    <string name="receive_mms_title">接收彩信</string>
+    <string name="network_error_falls_back_to_sms">当网络故障时使用短信转发</string>    <string name="receive_mms_title">接收彩信</string>
     <string name="receive_sms_title">接收短信</string>
-    <string name="send_sms_title">发送短信</string>
-    <string name="sms_content">内容:</string>
-    <string name="sms_date">日期:</string>
-    <string name="sms_delete_confirm">确定要删除这条短信吗？</string>
-    <string name="sms_delete_failed">删除短信失败。</string>
-    <string name="sms_deleted">短信已成功删除。</string>
-    <string name="sms_detail_header">📩 短信详情</string>
-    <string name="sms_from">发件人:</string>
-    <string name="sms_list_empty">没有找到短信。</string>
-    <string name="sms_list_header">📱 短信列表 (%1$s)</string>
-    <string name="sms_not_found">找不到短信。</string>
-    <string name="sms_to">收件人:</string>
-    <string name="sms_type_all">全部</string>
-    <string name="sms_type_inbox">收件箱</string>
-    <string name="sms_type_sent">已发送</string>
-    <string name="spam_keyword_add_title">添加关键字</string>
+    <string name="send_sms_title">发送短信</string>    <string name="spam_keyword_add_title">添加关键字</string>
     <string name="spam_keyword_edit_title">修改关键字</string>
     <string name="spam_sms_keyword_title">短信阻止名单</string>
     <string name="template_title">模板</string>
@@ -41,7 +19,5 @@
     <string name="enter_reply_number">请输入收件人号码。</string>
     <string name="enter_reply_content">请输入要发送的消息内容。</string>
     <string name="please_reply_to_continue">请回复前一条消息以继续。</string>
-    <string name="select_sim_card">请选择SIM卡：</string>
-    <string name="sim_card_1">SIM卡1</string>
-    <string name="sim_card_2">SIM卡2</string>
-    </resources>
+
+</resources>

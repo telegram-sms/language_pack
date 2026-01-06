@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="send_ussd_title">USSD送信</string>
     <string name="ussd_code_running">実行中のUSSDコード…</string>
+    <string name="invalid_ussd_code">無効なUSSDコード形式</string>
+    <string name="enter_ussd_code">USSDコードを返信してください。</string>
     </resources>

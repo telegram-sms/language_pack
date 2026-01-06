@@ -9,11 +9,7 @@
     <string name="connect_wait_title">連接到伺服器……</string>
     <string name="get_recent_chat_id">取得最近的會話 ID</string>
     <string name="get_recent_chat_message">請傳送一些訊息給機器人。</string>
-    <string name="get_recent_chat_title">取得最近的會話……</string>
-    <string name="get_spam_sms">/getspamsms - 取得被過濾的垃圾簡訊</string>
-    <string name="message_thread_id">話題 ID</string>
-    <string name="no_spam_history">没有垃圾簡訊地歷史</string>
-    <string name="select_chat">選擇會話</string>
+    <string name="get_recent_chat_title">取得最近的會話……</string>    <string name="message_thread_id">話題 ID</string>    <string name="select_chat">選擇會話</string>
     <string name="set_api_title">API位址</string>
     <string name="set_api_success">API 位址設定成功。</string>
     <string name="set_api_failed">API 位址設定失敗。</string>

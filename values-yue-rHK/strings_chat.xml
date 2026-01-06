@@ -5,5 +5,7 @@
     <string name="sendsms_dual">/sendsms [1|2] - 傳送短訊（指定 SIM 咭）</string>
     <string name="send_ussd_command">/sendussd - 傳送 USSD 請求</string>
     <string name="send_ussd_dual_command">/sendussd [1|2] - 傳送 USSD 請求（指定 SIM 咭）</string>
+    <string name="listsms_command">/listsms - 列出短訊記錄</string>
+    <string name="listsms_inbox_command">/listsms inbox - 列出收件箱\n/listsms sent - 列出已發送短訊</string>
 </resources>
 

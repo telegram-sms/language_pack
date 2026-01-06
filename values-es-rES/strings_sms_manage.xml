@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="sms_list_header">📱 Lista de SMS (%1$s)</string>
+    <string name="sms_list_empty">No se encontraron mensajes SMS.</string>
+    <string name="sms_detail_header">📩 Detalles del SMS</string>
+    <string name="sms_from">De:</string>
+    <string name="sms_to">Para:</string>
+    <string name="sms_date">Fecha:</string>
+    <string name="sms_content">Contenido:</string>
+    <string name="sms_type_inbox">Bandeja de entrada</string>
+    <string name="sms_type_sent">Enviados</string>
+    <string name="sms_type_all">Todos</string>
+    <string name="sms_not_found">SMS no encontrado.</string>
+    <string name="sms_deleted">SMS eliminado correctamente.</string>
+    <string name="sms_delete_failed">Error al eliminar el SMS.</string>
+    <string name="sms_delete_confirm">¿Está seguro de que desea eliminar este SMS?</string>
+    <string name="not_default_sms_app">Esta función requiere que la aplicación sea la aplicación de SMS predeterminada.</string>
+    <string name="prev_page">Anterior</string>
+    <string name="next_page">Siguiente</string>
+</resources>
+

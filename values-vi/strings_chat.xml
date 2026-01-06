@@ -5,5 +5,7 @@
     <string name="sendsms_dual">/sendsms [1|2] - Gửi SMS (chỉ định thẻ SIM)</string>
     <string name="send_ussd_command">/sendussd - Gửi yêu cầu USSD</string>
     <string name="send_ussd_dual_command">/sendussd [1|2] - Gửi yêu cầu USSD (chỉ định thẻ SIM)</string>
+    <string name="listsms_command">/listsms - Liệt kê tin nhắn SMS</string>
+    <string name="listsms_inbox_command">/listsms inbox - Liệt kê tin nhắn đến\n/listsms sent - Liệt kê tin nhắn đã gửi</string>
 </resources>
 

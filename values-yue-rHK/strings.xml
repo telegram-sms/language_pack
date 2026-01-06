@@ -22,4 +22,6 @@
     <string name="time">"時間："</string>
     <string name="send_configuration">發送配置</string>
     <string name="receive_configuration">接收配置</string>
-    </resources>
+        <string name="select_sim_card">請揀 SIM 卡：</string>
+    <string name="no_service_available">冇可用嘅服務。</string>
+</resources>

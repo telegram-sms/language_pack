@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="display_sim_card_alias_in_dual_card_mode">Mostrar alias de la tarjeta SIM</string>
-    <string name="enter_content">Por favor ingresa el mensaje a enviar.</string>
-    <string name="enter_number">"Ingresa el número del destinatario."</string>
-    <string name="failed_resend">Reenvío de SMS fallido</string>
+<resources><string name="failed_resend">Reenvío de SMS fallido</string>
     <string name="keywords">Palabras clave</string>
     <string name="listsms_command">/listsms - Listar mensajes SMS</string>
     <string name="listsms_inbox_command">/listsms inbox - Listar mensajes de entrada\n/listsms sent - Listar mensajes enviados</string>
-    <string name="network_error_falls_back_to_sms">Reenviar SMS al número de confianza cuando la red no esté disponible</string>
-    <string name="next_page">Siguiente</string>
-<string name="not_default_sms_app">Esta función requiere que la aplicación esté configurada como la aplicación de SMS predeterminada.</string>
-    <string name="prev_page">Anterior</string>
-    <string name="receive_mms_title">Recibir MMS</string>
+    <string name="network_error_falls_back_to_sms">Reenviar SMS al número de confianza cuando la red no esté disponible</string>    <string name="receive_mms_title">Recibir MMS</string>
     <string name="receive_sms_title">Recibir SMS</string>
-    <string name="send_sms_title">Enviar SMS</string>
-    <string name="sms_content">Contenido:</string>
-    <string name="sms_date">Fecha:</string>
-    <string name="sms_delete_confirm">¿Está seguro de que desea eliminar este SMS?</string>
-    <string name="sms_delete_failed">Error al eliminar el SMS.</string>
-    <string name="sms_deleted">SMS eliminado exitosamente.</string>
-    <string name="sms_detail_header">📩 Detalles del SMS</string>
-    <string name="sms_from">De:</string>
-    <string name="sms_list_empty">No se encontraron mensajes SMS.</string>
-    <string name="sms_list_header">📱 Lista de SMS (%1$s)</string>
-    <string name="sms_not_found">SMS no encontrado.</string>
-    <string name="sms_to">Para:</string>
-    <string name="sms_type_all">Todos</string>
-    <string name="sms_type_inbox">Entrada</string>
-    <string name="sms_type_sent">Enviados</string>
-    <string name="spam_keyword_add_title">Agregar palabra clave</string>
+    <string name="send_sms_title">Enviar SMS</string>    <string name="spam_keyword_add_title">Agregar palabra clave</string>
     <string name="spam_keyword_edit_title">Editar palabra clave</string>
     <string name="spam_sms_keyword_title">Lista negra de SMS</string>
     <string name="template_title">Plantilla</string>
@@ -38,4 +16,7 @@
     <string name="unable_to_obtain_information">No se pudo obtener el mensaje</string>
     <string name="using_verification_code_identification">Extraer automáticamente códigos de verificación (Alfa)</string>
     <string name="verification_code">" (Código de verificación)"</string>
-    </resources>
+        <string name="please_reply_to_continue">Por favor responde al mensaje anterior para continuar.</string>
+    <string name="enter_reply_content">Por favor responde con el mensaje a enviar.</string>
+    <string name="enter_reply_number">Por favor responde con el número del destinatario.</string>
+</resources>

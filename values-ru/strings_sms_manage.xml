@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="sms_list_header">📱 Список SMS (%1$s)</string>
+    <string name="sms_list_empty">SMS-сообщения не найдены.</string>
+    <string name="sms_detail_header">📩 Детали SMS</string>
+    <string name="sms_from">От:</string>
+    <string name="sms_to">Кому:</string>
+    <string name="sms_date">Дата:</string>
+    <string name="sms_content">Содержание:</string>
+    <string name="sms_type_inbox">Входящие</string>
+    <string name="sms_type_sent">Отправленные</string>
+    <string name="sms_type_all">Все</string>
+    <string name="sms_not_found">SMS не найдено.</string>
+    <string name="sms_deleted">SMS успешно удалено.</string>
+    <string name="sms_delete_failed">Не удалось удалить SMS.</string>
+    <string name="sms_delete_confirm">Вы уверены, что хотите удалить это SMS?</string>
+    <string name="not_default_sms_app">Для этой функции требуется установить приложение в качестве приложения SMS по умолчанию.</string>
+    <string name="prev_page">Предыдущая</string>
+    <string name="next_page">Следующая</string>
+</resources>
+

@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="send_ussd_title">發送 USSD</string>
     <string name="ussd_code_running">正在執行 USSD 代碼……</string>
+    <string name="invalid_ussd_code">無效的 USSD 代碼格式</string>
+    <string name="enter_ussd_code">請回覆 USSD 代碼。</string>
     </resources>

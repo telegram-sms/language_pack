@@ -22,4 +22,6 @@
     <string name="time">"時間: "</string>
     <string name="send_configuration">設定を送信</string>
     <string name="receive_configuration">設定を受信</string>
-    </resources>
+        <string name="select_sim_card">SIMカードを選択してください：</string>
+    <string name="no_service_available">利用可能なサービスがありません。</string>
+</resources>

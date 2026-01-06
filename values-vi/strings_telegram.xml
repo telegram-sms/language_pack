@@ -9,11 +9,7 @@
     <string name="connect_wait_title">Đang kết nối với máy chủ…</string>
     <string name="get_recent_chat_id">Lấy Chat ID gần đây</string>
     <string name="get_recent_chat_message">Vui lòng gửi một số tin nhắn đến bot.</string>
-    <string name="get_recent_chat_title">Lấy cuộc trò chuyện gần đây…</string>
-    <string name="get_spam_sms">/getspamsms - Lấy tin nhắn rác bị lọc</string>
-    <string name="message_thread_id">Topic ID</string>
-    <string name="no_spam_history">Không có lịch sử tin nhắn rác</string>
-    <string name="select_chat">Chọn cuộc trò chuyện</string>
+    <string name="get_recent_chat_title">Lấy cuộc trò chuyện gần đây…</string>    <string name="message_thread_id">Topic ID</string>    <string name="select_chat">Chọn cuộc trò chuyện</string>
     <string name="set_api_title">Địa chỉ API</string>
     <string name="set_api_success">Đặt địa chỉ API thành công.</string>
     <string name="set_api_failed">Không thể đặt địa chỉ API.</string>

@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="display_sim_card_alias_in_dual_card_mode">Hiển thị tên gọi SIM</string>
-    <string name="enter_content">Vui lòng nhập nội dung tin nhắn cần gửi.</string>
-    <string name="enter_number">Vui lòng nhập số bạn muốn gửi đến.</string>
-    <string name="failed_resend">Gửi lại</string>
+<resources><string name="failed_resend">Gửi lại</string>
     <string name="keywords">Từ khóa</string>
     <string name="listsms_command">/listsms - Liệt kê tin nhắn SMS</string>
     <string name="listsms_inbox_command">/listsms inbox - Liệt kê hộp thư đến\n/listsms sent - Liệt kê tin nhắn đã gửi</string>
-    <string name="network_error_falls_back_to_sms">Sử dụng SMS chuyển tiếp khi mạng lỗi</string>
-    <string name="next_page">Trang sau</string>
-<string name="not_default_sms_app">Tính năng này yêu cầu ứng dụng được đặt làm ứng dụng SMS mặc định.</string>
-    <string name="prev_page">Trang trước</string>
-    <string name="receive_mms_title">Nhận MMS</string>
+    <string name="network_error_falls_back_to_sms">Sử dụng SMS chuyển tiếp khi mạng lỗi</string>    <string name="receive_mms_title">Nhận MMS</string>
     <string name="receive_sms_title">Nhận SMS</string>
-    <string name="send_sms_title">Gửi SMS</string>
-    <string name="sms_content">Nội dung:</string>
-    <string name="sms_date">Ngày:</string>
-    <string name="sms_delete_confirm">Bạn có chắc chắn muốn xóa tin nhắn này không?</string>
-    <string name="sms_delete_failed">Xóa tin nhắn SMS thất bại.</string>
-    <string name="sms_deleted">Đã xóa tin nhắn SMS thành công.</string>
-    <string name="sms_detail_header">📩 Chi tiết SMS</string>
-    <string name="sms_from">Từ:</string>
-    <string name="sms_list_empty">Không tìm thấy tin nhắn SMS.</string>
-    <string name="sms_list_header">📱 Danh sách SMS (%1$s)</string>
-    <string name="sms_not_found">Không tìm thấy tin nhắn SMS.</string>
-    <string name="sms_to">Đến:</string>
-    <string name="sms_type_all">Tất cả</string>
-    <string name="sms_type_inbox">Hộp thư đến</string>
-    <string name="sms_type_sent">Đã gửi</string>
-    <string name="spam_keyword_add_title">Thêm từ khóa</string>
+    <string name="send_sms_title">Gửi SMS</string>    <string name="spam_keyword_add_title">Thêm từ khóa</string>
     <string name="spam_keyword_edit_title">Chỉnh sửa từ khóa</string>
     <string name="spam_sms_keyword_title">Danh sách chặn SMS</string>
     <string name="template_title">Mẫu</string>
@@ -38,4 +16,7 @@
     <string name="unable_to_obtain_information">Không thể lấy thông tin</string>
     <string name="using_verification_code_identification">Tự động trích xuất mã xác minh (Alpha)</string>
     <string name="verification_code">" (Mã xác minh)"</string>
-    </resources>
+        <string name="please_reply_to_continue">Vui lòng trả lời tin nhắn trước để tiếp tục.</string>
+    <string name="enter_reply_content">Vui lòng trả lời với tin nhắn cần gửi.</string>
+    <string name="enter_reply_number">Vui lòng trả lời với số người nhận.</string>
+</resources>

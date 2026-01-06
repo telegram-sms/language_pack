@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="sms_list_header">📱 短訊列表 (%1$s)</string>
+    <string name="sms_list_empty">冇搵到短訊。</string>
+    <string name="sms_detail_header">📩 短訊詳情</string>
+    <string name="sms_from">發件人:</string>
+    <string name="sms_to">收件人:</string>
+    <string name="sms_date">日期:</string>
+    <string name="sms_content">內容:</string>
+    <string name="sms_type_inbox">收件箱</string>
+    <string name="sms_type_sent">已發送</string>
+    <string name="sms_type_all">全部</string>
+    <string name="sms_not_found">搵唔到短訊。</string>
+    <string name="sms_deleted">短訊已成功刪除。</string>
+    <string name="sms_delete_failed">刪除短訊失敗。</string>
+    <string name="sms_delete_confirm">確定要刪除呢則短訊咩？</string>
+    <string name="not_default_sms_app">呢個功能需要將應用程式設為預設短訊應用程式。</string>
+    <string name="prev_page">上一頁</string>
+    <string name="next_page">下一頁</string>
+</resources>
+

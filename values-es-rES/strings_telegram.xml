@@ -9,11 +9,7 @@
     <string name="connect_wait_title">Conectando al servidor de Telegram…</string>
     <string name="get_recent_chat_id">Obtener ID de chat reciente</string>
     <string name="get_recent_chat_message">Por favor, envía algunos mensajes al bot.</string>
-    <string name="get_recent_chat_title">Recuperando chats recientes…</string>
-    <string name="get_spam_sms">/getspamsms - Recibir mensajes de spam filtrados</string>
-    <string name="message_thread_id">Topic ID</string>
-    <string name="no_spam_history">Sin historial de spam</string>
-    <string name="select_chat">Seleccionar chat</string>
+    <string name="get_recent_chat_title">Recuperando chats recientes…</string>    <string name="message_thread_id">Topic ID</string>    <string name="select_chat">Seleccionar chat</string>
     <string name="set_api_title">Dirección API</string>
     <string name="set_api_success">Dirección API configurada correctamente.</string>
     <string name="set_api_failed">Error al configurar la dirección API.</string>

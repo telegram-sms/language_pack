@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="display_sim_card_alias_in_dual_card_mode">Показать псевдоним SIM-карты</string>
-    <string name="enter_content">Пожалуйста, введите сообщение для отправки.</string>
-    <string name="enter_number">Пожалуйста, введите номер получателя.</string>
-    <string name="failed_resend">Повторная отправка неудачного SMS</string>
+<resources><string name="failed_resend">Повторная отправка неудачного SMS</string>
     <string name="keywords">Ключевые слова</string>
     <string name="listsms_command">/listsms - Список SMS-сообщений</string>
     <string name="listsms_inbox_command">/listsms inbox - Список входящих сообщений\n/listsms sent - Список отправленных сообщений</string>
-    <string name="network_error_falls_back_to_sms">Пересылать SMS на доверенный номер, когда сеть недоступна</string>
-    <string name="next_page">Следующая</string>
-<string name="not_default_sms_app">Для этой функции требуется, чтобы приложение было установлено в качестве приложения SMS по умолчанию.</string>
-    <string name="prev_page">Предыдущая</string>
-    <string name="receive_mms_title">Получить MMS</string>
+    <string name="network_error_falls_back_to_sms">Пересылать SMS на доверенный номер, когда сеть недоступна</string>    <string name="receive_mms_title">Получить MMS</string>
     <string name="receive_sms_title">Получить SMS</string>
-    <string name="send_sms_title">Отправить SMS</string>
-    <string name="sms_content">Содержание:</string>
-    <string name="sms_date">Дата:</string>
-    <string name="sms_delete_confirm">Вы уверены, что хотите удалить это SMS?</string>
-    <string name="sms_delete_failed">Не удалось удалить SMS.</string>
-    <string name="sms_deleted">SMS успешно удалено.</string>
-    <string name="sms_detail_header">📩 Детали SMS</string>
-    <string name="sms_from">От:</string>
-    <string name="sms_list_empty">SMS-сообщения не найдены.</string>
-    <string name="sms_list_header">📱 Список SMS (%1$s)</string>
-    <string name="sms_not_found">SMS не найдено.</string>
-    <string name="sms_to">Кому:</string>
-    <string name="sms_type_all">Все</string>
-    <string name="sms_type_inbox">Входящие</string>
-    <string name="sms_type_sent">Отправленные</string>
-    <string name="spam_keyword_add_title">Добавить ключевое слово</string>
+    <string name="send_sms_title">Отправить SMS</string>    <string name="spam_keyword_add_title">Добавить ключевое слово</string>
     <string name="spam_keyword_edit_title">Изменить ключевые слова</string>
     <string name="spam_sms_keyword_title">Черный список SMS</string>
     <string name="template_title">Шаблон</string>
@@ -38,4 +16,7 @@
     <string name="unable_to_obtain_information">Не удалось получить сообщение</string>
     <string name="using_verification_code_identification">Автоматическое извлечение проверочного кода (Альфа)</string>
     <string name="verification_code">" (Код подтверждения)"</string>
-    </resources>
+        <string name="please_reply_to_continue">Пожалуйста, ответьте на предыдущее сообщение, чтобы продолжить.</string>
+    <string name="enter_reply_content">Пожалуйста, ответьте с сообщением для отправки.</string>
+    <string name="enter_reply_number">Пожалуйста, ответьте с номером получателя.</string>
+</resources>

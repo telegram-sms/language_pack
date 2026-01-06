@@ -3,5 +3,6 @@
     <string name="ussd_code_running">正在运行USSD代码…</string>
     <string name="invalid_ussd_code">无效的USSD代码格式</string>
     <string name="enter_ussd_code">请输入USSD代码。</string>
-    <string name="select_sim_card_ussd">请选择SIM卡：</string>
     </resources>
+
+

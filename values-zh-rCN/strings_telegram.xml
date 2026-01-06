@@ -9,11 +9,7 @@
     <string name="connect_wait_title">连接到服务器…</string>
     <string name="get_recent_chat_id">获取最近的对话ID</string>
     <string name="get_recent_chat_message">请发送一些消息到机器人。</string>
-    <string name="get_recent_chat_title">获取最近的对话…</string>
-    <string name="get_spam_sms">/getspamsms - 获取被过滤的垃圾短信</string>
-    <string name="message_thread_id">话题 ID</string>
-    <string name="no_spam_history">没有垃圾短信历史</string>
-    <string name="select_chat">选择对话</string>
+    <string name="get_recent_chat_title">获取最近的对话…</string>    <string name="message_thread_id">话题 ID</string>    <string name="select_chat">选择对话</string>
     <string name="set_api_title">API地址</string>
     <string name="set_api_success">API 地址设置成功。</string>
     <string name="set_api_failed">API 地址设置失败。</string>

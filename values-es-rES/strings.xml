@@ -22,4 +22,6 @@
     <string name="time">"Hora: "</string>
     <string name="send_configuration">Enviar configuración</string>
     <string name="receive_configuration">Recibir configuración</string>
-    </resources>
+        <string name="select_sim_card">Por favor selecciona una tarjeta SIM:</string>
+    <string name="no_service_available">No hay servicios disponibles.</string>
+</resources>
