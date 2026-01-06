@@ -8,7 +8,6 @@
     <string name="failed_to_get_information">無法取得訊息。</string>
     <string name="logcat">檢視日誌</string>
     <string name="no_logs">無日誌。</string>
-    <string name="no_service_available">沒有可用的服務。</string>
     <string name="ok_button">確定</string>
     <string name="request">"請求："</string>
     <string name="reset_button">重置</string>

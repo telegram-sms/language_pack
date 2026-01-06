@@ -8,7 +8,6 @@
     <string name="failed_to_get_information">Không thể lấy thông tin.</string>
     <string name="logcat">Xem nhật ký</string>
     <string name="no_logs">Không có nhật ký.</string>
-    <string name="no_service_available">Không có dịch vụ nào khả dụng.</string>
     <string name="ok_button">OK</string>
     <string name="request">"Yêu cầu: "</string>
     <string name="reset_button">Đặt lại</string>

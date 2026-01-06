@@ -8,7 +8,6 @@
     <string name="failed_to_get_information">情報を取得できません。</string>
     <string name="logcat">履歴を表示</string>
     <string name="no_logs">履歴はありません。</string>
-    <string name="no_service_available">利用可能なサービスがありません。</string>
     <string name="ok_button">OK</string>
     <string name="request">"請求: "</string>
     <string name="reset_button">リセット</string>

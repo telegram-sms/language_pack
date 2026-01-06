@@ -5,8 +5,5 @@
     <string name="sendsms_dual">/sendsms [1|2] - SMSを送信（SIMカードを指定）</string>
     <string name="send_ussd_command">/sendussd - USSDリクエストを送信</string>
     <string name="send_ussd_dual_command">/sendussd [1|2] - USSDリクエストを送信（SIMカードを指定）</string>
-    <!-- List SMS commands -->
-    <string name="listsms_command">/listsms - SMSメッセージを一覧表示</string>
-    <string name="listsms_inbox_command">/listsms inbox - 受信メッセージを一覧表示\n/listsms sent - 送信済みメッセージを一覧表示</string>
 </resources>
 

@@ -5,8 +5,5 @@
     <string name="sendsms_dual">/sendsms [1|2] - Отправить SMS (указать SIM-карту)</string>
     <string name="send_ussd_command">/sendussd - Отправить USSD-запрос</string>
     <string name="send_ussd_dual_command">/sendussd [1|2] - Отправить USSD-запрос (указать SIM-карту)</string>
-    <!-- List SMS commands -->
-    <string name="listsms_command">/listsms - Список SMS-сообщений</string>
-    <string name="listsms_inbox_command">/listsms inbox - Список входящих сообщений\n/listsms sent - Список отправленных сообщений</string>
 </resources>
 

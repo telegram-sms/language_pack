@@ -8,7 +8,6 @@
     <string name="failed_to_get_information">Error al obtener la información.</string>
     <string name="logcat">Ver registro</string>
     <string name="no_logs">Aún no hay registros.</string>
-    <string name="no_service_available">No hay servicio disponible.</string>
     <string name="ok_button">GUARDAR</string>
     <string name="request">"Solicitud: "</string>
     <string name="reset_button">Restablecer</string>

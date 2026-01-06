@@ -8,7 +8,6 @@
     <string name="failed_to_get_information">Не удалось получить информацию.</string>
     <string name="logcat">Посмотреть лог</string>
     <string name="no_logs">Логов пока нет.</string>
-    <string name="no_service_available">Нет доступных сервисов.</string>
     <string name="ok_button">OK</string>
     <string name="request">Запрос: </string>
     <string name="reset_button">Сброс</string>
