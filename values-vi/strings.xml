@@ -23,5 +23,4 @@
     <string name="send_configuration">Gửi cấu hình</string>
     <string name="receive_configuration">Nhận cấu hình</string>
         <string name="select_sim_card">Vui lòng chọn thẻ SIM:</string>
-    <string name="no_service_available">Không có dịch vụ khả dụng.</string>
 </resources>

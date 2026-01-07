@@ -23,5 +23,4 @@
     <string name="send_configuration">Отправить конфигурацию</string>
     <string name="receive_configuration">Получить конфигурацию</string>
         <string name="select_sim_card">Пожалуйста, выберите SIM-карту:</string>
-    <string name="no_service_available">Нет доступных сервисов.</string>
 </resources>
