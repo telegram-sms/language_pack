@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="check_update">檢查更新</string>
+    <string name="failed_to_download_update_metadata">下載唔到更新資訊。</string>
+    <string name="no_apk_found_for_the_update">搵唔到更新檔。</string>
+    <string name="app_is_up_to_date">已經係最新版本。</string>
+    <string name="failed_to_parse_update_metadata">解析唔到更新資訊。</string>
+    <string name="failed_to_fetch_update_metadata">攞唔到更新資訊。</string>
+    <string name="failed_to_check_for_updates">檢查唔到更新。</string>
+</resources>

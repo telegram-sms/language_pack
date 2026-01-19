@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="check_update">更新を確認</string>
+    <string name="failed_to_download_update_metadata">更新データのダウンロードに失敗しました。</string>
+    <string name="no_apk_found_for_the_update">更新用APKが見つかりません。</string>
+    <string name="app_is_up_to_date">アプリは最新です。</string>
+    <string name="failed_to_parse_update_metadata">更新データの解析に失敗しました。</string>
+    <string name="failed_to_fetch_update_metadata">更新データの取得に失敗しました。</string>
+    <string name="failed_to_check_for_updates">更新の確認に失敗しました。</string>
+</resources>

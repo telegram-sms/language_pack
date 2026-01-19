@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="check_update">Проверить обновления</string>
+    <string name="failed_to_download_update_metadata">Не удалось скачать метаданные.</string>
+    <string name="no_apk_found_for_the_update">APK для обновления не найден.</string>
+    <string name="app_is_up_to_date">Установлена последняя версия.</string>
+    <string name="failed_to_parse_update_metadata">Ошибка разбора метаданных.</string>
+    <string name="failed_to_fetch_update_metadata">Ошибка получения метаданных.</string>
+    <string name="failed_to_check_for_updates">Ошибка проверки обновлений.</string>
+</resources>

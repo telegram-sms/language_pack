@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="check_update">Kiểm tra cập nhật</string>
+    <string name="failed_to_download_update_metadata">Tải dữ liệu cập nhật thất bại.</string>
+    <string name="no_apk_found_for_the_update">Không tìm thấy APK cập nhật.</string>
+    <string name="app_is_up_to_date">Ứng dụng đã được cập nhật.</string>
+    <string name="failed_to_parse_update_metadata">Lỗi phân tích dữ liệu cập nhật.</string>
+    <string name="failed_to_fetch_update_metadata">Lỗi lấy dữ liệu cập nhật.</string>
+    <string name="failed_to_check_for_updates">Kiểm tra cập nhật thất bại.</string>
+</resources>

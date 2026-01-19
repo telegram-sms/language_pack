@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="about_content">"开发者： qwe7002\n\n简体广东话译者：ous50\n\n目前版本： "</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="about_content">"开发者： qwe7002\n\n简体广东话译者：ous50\n\n目前版本： "</string>
     <string name="about_title">关于</string>
     <string name="agree">同意</string>
     <string name="browser_not_found">揾唔到浏览器。</string>
-    <string name="check_update">检查更新</string>
     <string name="decline">收皮啦你</string>
     <string name="donate">支持下作者啦</string>
     <string name="privacy_policy">隐私条款</string>
@@ -15,4 +15,4 @@
     <string name="update_dialog_title">发现新版本</string>
     <string name="user_manual">使用手册</string>
     <string name="visit_page">浏览[隐私条款]网页</string>
-    </resources>
+</resources>

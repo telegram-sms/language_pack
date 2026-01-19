@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="about_content">"開發者: qwe7002\n繁體中文翻譯: @孟武.尼德霍格.龍\n目前版本："</string>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="about_content">"開發者: qwe7002\n繁體中文翻譯: @孟武.尼德霍格.龍\n目前版本："</string>
     <string name="about_title">關於</string>
     <string name="agree">同意</string>
     <string name="browser_not_found">找不到瀏覽器。</string>
-    <string name="check_update">檢查更新</string>
     <string name="decline">稍後再說</string>
     <string name="donate">抖內</string>
     <string name="privacy_policy">隱私條款</string>
@@ -15,4 +15,4 @@
     <string name="update_dialog_title">發現新版本</string>
     <string name="user_manual">使用手冊</string>
     <string name="visit_page">瀏覽[隱私條款]網頁</string>
-    </resources>
+</resources>

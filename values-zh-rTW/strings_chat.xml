@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
     <string name="available_command">可用指令：\n/help - 顯示說明\n/getinfo - 取得系統資訊\n/log - 輸出最後 10 條日誌記錄</string>
     <string name="sendsms">/sendsms - 傳送簡訊</string>
@@ -8,4 +8,3 @@
     <string name="listsms_command">/listsms - 列出簡訊</string>
     <string name="listsms_inbox_command">/listsms inbox - 列出收件匣訊息\n/listsms sent - 列出寄件備份訊息</string>
 </resources>
-
