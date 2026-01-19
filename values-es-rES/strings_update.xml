@@ -7,4 +7,8 @@
     <string name="failed_to_parse_update_metadata">Error al analizar metadatos de actualización.</string>
     <string name="failed_to_fetch_update_metadata">Error al obtener metadatos de actualización.</string>
     <string name="failed_to_check_for_updates">Error al buscar actualizaciones.</string>
+    <string name="update_dialog_body">%s está disponible para actualizar.</string>
+    <string name="update_dialog_no">Hablar contigo más tarde</string>
+    <string name="update_dialog_ok">Actualizar ahora</string>
+    <string name="update_dialog_title">Nueva versión encontrada</string>
 </resources>

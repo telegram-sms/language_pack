@@ -7,4 +7,8 @@
     <string name="failed_to_parse_update_metadata">Lỗi phân tích dữ liệu cập nhật.</string>
     <string name="failed_to_fetch_update_metadata">Lỗi lấy dữ liệu cập nhật.</string>
     <string name="failed_to_check_for_updates">Kiểm tra cập nhật thất bại.</string>
+    <string name="update_dialog_body">%s có sẵn để cập nhật.</string>
+    <string name="update_dialog_no">Nhắc lại sau</string>
+    <string name="update_dialog_ok">Cập nhật ngay</string>
+    <string name="update_dialog_title">Phát hiện phiên bản mới</string>
 </resources>
