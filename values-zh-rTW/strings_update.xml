@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="check_update">檢查更新</string>
+    <string name="failed_to_download_update_metadata">下載更新中介資料失敗。</string>
+    <string name="no_apk_found_for_the_update">未找到此次更新的 APK。</string>
+    <string name="app_is_up_to_date">應用程式已是最新版本。</string>
+    <string name="failed_to_parse_update_metadata">解析更新中介資料失敗。</string>
+    <string name="failed_to_fetch_update_metadata">獲取更新中介資料失敗。</string>
+    <string name="failed_to_check_for_updates">檢查更新失敗。</string>
+</resources>
