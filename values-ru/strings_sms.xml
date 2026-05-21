@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="failed_resend">Повторная отправка неудачного SMS</string>
     <string name="keywords">Ключевые слова</string>
-    <string name="listsms_command">/listsms - Список SMS-сообщений</string>
-    <string name="listsms_inbox_command">/listsms inbox - Список входящих сообщений\n/listsms sent - Список отправленных сообщений</string>
     <string name="network_error_falls_back_to_sms">Пересылать SMS на доверенный номер, когда сеть недоступна</string>    <string name="receive_mms_title">Получить MMS</string>
     <string name="receive_sms_title">Получить SMS</string>
     <string name="send_sms_title">Отправить SMS</string>    <string name="spam_keyword_add_title">Добавить ключевое слово</string>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="failed_resend">重新发送</string>
     <string name="keywords">关键词</string>
-    <string name="listsms_command">/listsms - 列出短信记录</string>
-    <string name="listsms_inbox_command">/listsms inbox - 列出收件箱\n/listsms sent - 列出已发送短信</string>
     <string name="network_error_falls_back_to_sms">断网嗰阵时转寄短信到信任嘅电话冧巴</string>    <string name="receive_mms_title">收到彩信</string>
     <string name="receive_sms_title">收到短信</string>
     <string name="send_sms_title">发送短信</string>    <string name="spam_keyword_add_title">新增关键词</string>

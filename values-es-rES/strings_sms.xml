@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="failed_resend">Reenvío de SMS fallido</string>
     <string name="keywords">Palabras clave</string>
-    <string name="listsms_command">/listsms - Listar mensajes SMS</string>
-    <string name="listsms_inbox_command">/listsms inbox - Listar mensajes de entrada\n/listsms sent - Listar mensajes enviados</string>
     <string name="network_error_falls_back_to_sms">Reenviar SMS al número de confianza cuando la red no esté disponible</string>    <string name="receive_mms_title">Recibir MMS</string>
     <string name="receive_sms_title">Recibir SMS</string>
     <string name="send_sms_title">Enviar SMS</string>    <string name="spam_keyword_add_title">Agregar palabra clave</string>

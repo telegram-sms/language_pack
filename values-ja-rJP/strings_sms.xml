@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="failed_resend">失敗したメッセージの再送信</string>
     <string name="keywords">キーワード</string>
-    <string name="listsms_command">/listsms - SMSメッセージを一覧表示</string>
-    <string name="listsms_inbox_command">/listsms inbox - 受信トレイを一覧表示\n/listsms sent - 送信済みメッセージを一覧表示</string>
     <string name="network_error_falls_back_to_sms">ネットワークに障害が発生したときにSMS転送を使用する</string>    <string name="receive_mms_title">MMS受信</string>
     <string name="receive_sms_title">SMS受信</string>
     <string name="send_sms_title">SMS送信</string>    <string name="spam_keyword_add_title">キーワードを追加</string>

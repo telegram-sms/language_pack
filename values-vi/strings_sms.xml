@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="failed_resend">Gửi lại</string>
     <string name="keywords">Từ khóa</string>
-    <string name="listsms_command">/listsms - Liệt kê tin nhắn SMS</string>
-    <string name="listsms_inbox_command">/listsms inbox - Liệt kê hộp thư đến\n/listsms sent - Liệt kê tin nhắn đã gửi</string>
     <string name="network_error_falls_back_to_sms">Sử dụng SMS chuyển tiếp khi mạng lỗi</string>    <string name="receive_mms_title">Nhận MMS</string>
     <string name="receive_sms_title">Nhận SMS</string>
     <string name="send_sms_title">Gửi SMS</string>    <string name="spam_keyword_add_title">Thêm từ khóa</string>

@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources><string name="failed_resend">重新傳送</string>
     <string name="keywords">關鍵詞</string>
-    <string name="listsms_command">/listsms - 列出簡訊記錄</string>
-    <string name="listsms_inbox_command">/listsms inbox - 列出收件匣\n/listsms sent - 列出已發送簡訊</string>
     <string name="network_error_falls_back_to_sms">發生網路錯誤時轉寄簡訊到信任電話號碼</string>    <string name="receive_mms_title">接收彩信</string>
     <string name="receive_sms_title">接收短信</string>
     <string name="send_sms_title">發送短信</string>    <string name="spam_keyword_add_title">新增關鍵字</string>
