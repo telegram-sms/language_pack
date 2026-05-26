@@ -13,7 +13,7 @@
     <string name="set_api_title">Адрес API</string>
     <string name="set_api_success">Адрес API успешно установлен.</string>
     <string name="set_api_failed">Не удалось установить адрес API.</string>
-    <string name="logout_progress_title">Выход из официального API…</string>
+    <string name="logout_progress_title">Смена сервера Bot API…</string>
     <string name="logout_progress_message">Пожалуйста, ждите…</string>
     <string name="logout_failed">Не удалось выйти.</string>
     <string name="success_connect">Подключено к серверу Telegram.</string>

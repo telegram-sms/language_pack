@@ -13,7 +13,7 @@
     <string name="set_api_title">Địa chỉ API</string>
     <string name="set_api_success">Đặt địa chỉ API thành công.</string>
     <string name="set_api_failed">Không thể đặt địa chỉ API.</string>
-    <string name="logout_progress_title">Đang đăng xuất khỏi API chính thức…</string>
+    <string name="logout_progress_title">Đang chuyển máy chủ Bot API…</string>
     <string name="logout_progress_message">Vui lòng đợi…</string>
     <string name="logout_failed">Đăng xuất thất bại.</string>
     <string name="success_connect">Bạn đã kết nối thành công với máy chủ Telegram.</string>

@@ -13,7 +13,7 @@
     <string name="set_api_title">Dirección API</string>
     <string name="set_api_success">Dirección API configurada correctamente.</string>
     <string name="set_api_failed">Error al configurar la dirección API.</string>
-    <string name="logout_progress_title">Cerrando sesión de la API oficial…</string>
+    <string name="logout_progress_title">Cambiando de servidor de Bot API…</string>
     <string name="logout_progress_message">Por favor espera…</string>
     <string name="logout_failed">Error al cerrar sesión.</string>
     <string name="success_connect">Conectado al servidor de Telegram.</string>

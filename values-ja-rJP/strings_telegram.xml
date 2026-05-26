@@ -13,7 +13,7 @@
     <string name="set_api_title">APIアドレス</string>
     <string name="set_api_success">APIアドレスの設定に成功しました。</string>
     <string name="set_api_failed">APIアドレスの設定に失敗しました。</string>
-    <string name="logout_progress_title">公式APIからログアウト中…</string>
+    <string name="logout_progress_title">Bot API サーバーを切り替え中…</string>
     <string name="logout_progress_message">しばらくお待ちください…</string>
     <string name="logout_failed">ログアウトに失敗しました。</string>
     <string name="success_connect">Telegramサーバーに正常に接続しました。</string>

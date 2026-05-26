@@ -13,7 +13,7 @@
     <string name="set_api_title">API 地址</string>
     <string name="set_api_success">API 地址设置成功。</string>
     <string name="set_api_failed">API 地址设置失败。</string>
-    <string name="logout_progress_title">正从官方 API 登出紧…</string>
+    <string name="logout_progress_title">正切换紧 Bot API 服务器…</string>
     <string name="logout_progress_message">等等先……</string>
     <string name="logout_failed">登出失败。</string>
     <string name="success_connect">成功连接到 Telegram 嘅服务器。</string>
